@@ -1,33 +1,493 @@
 {
   "title": "MIDI Release Control",
   "status": "reviewed-snapshot",
-  "generatedAt": "2026-11-04T20:05:15Z",
+  "generatedAt": "2026-11-04T20:26:42Z",
   "buildStatus": "complete",
   "filters": [],
   "queries": {
     "releases": {
       "name": "Session MIDI releases",
       "rows": [
-        {"order":35,"name":"Trip-Hop-Inspired","slug":"trip-hop-studies","category":"New batch 2","bpm":86,"midiFiles":28,"studies":4,"tag":"v1.0.0","repository":"https://github.com/mizcausevic-dev/trip-hop-studies","page":"https://mizcausevic-dev.github.io/trip-hop-studies/","pagesStatus":"built","httpStatus":200,"validation":"PASS"},
-        {"order":36,"name":"Deep House","slug":"deep-house-studies","category":"New batch 2","bpm":122,"midiFiles":28,"studies":4,"tag":"v1.0.0","repository":"https://github.com/mizcausevic-dev/deep-house-studies","page":"https://mizcausevic-dev.github.io/deep-house-studies/","pagesStatus":"built","httpStatus":200,"validation":"PASS"},
-        {"order":37,"name":"Liquid DnB-Inspired","slug":"liquid-dnb-studies","category":"New batch 2","bpm":174,"midiFiles":28,"studies":4,"tag":"v1.0.0","repository":"https://github.com/mizcausevic-dev/liquid-dnb-studies","page":"https://mizcausevic-dev.github.io/liquid-dnb-studies/","pagesStatus":"built","httpStatus":200,"validation":"PASS"},
-        {"order":38,"name":"Downtempo","slug":"downtempo-studies","category":"New batch 2","bpm":92,"midiFiles":28,"studies":4,"tag":"v1.0.0","repository":"https://github.com/mizcausevic-dev/downtempo-studies","page":"https://mizcausevic-dev.github.io/downtempo-studies/","pagesStatus":"built","httpStatus":200,"validation":"PASS"},
-        {"order":39,"name":"Broken House","slug":"broken-house-studies","category":"New batch 2","bpm":126,"midiFiles":28,"studies":4,"tag":"v1.0.0","repository":"https://github.com/mizcausevic-dev/broken-house-studies","page":"https://mizcausevic-dev.github.io/broken-house-studies/","pagesStatus":"built","httpStatus":200,"validation":"PASS"},
-        {"order":40,"name":"Chillhop-Inspired","slug":"chillhop-studies","category":"New batch 2","bpm":82,"midiFiles":28,"studies":4,"tag":"v1.0.0","repository":"https://github.com/mizcausevic-dev/chillhop-studies","page":"https://mizcausevic-dev.github.io/chillhop-studies/","pagesStatus":"built","httpStatus":200,"validation":"PASS"},
-        {"order":41,"name":"Electro","slug":"electro-studies","category":"New batch 2","bpm":128,"midiFiles":28,"studies":4,"tag":"v1.0.0","repository":"https://github.com/mizcausevic-dev/electro-studies","page":"https://mizcausevic-dev.github.io/electro-studies/","pagesStatus":"built","httpStatus":200,"validation":"PASS"},
-        {"order":42,"name":"Ambient Techno","slug":"ambient-techno-studies","category":"New batch 2","bpm":118,"midiFiles":28,"studies":4,"tag":"v1.0.0","repository":"https://github.com/mizcausevic-dev/ambient-techno-studies","page":"https://mizcausevic-dev.github.io/ambient-techno-studies/","pagesStatus":"built","httpStatus":200,"validation":"PASS"},
-        {"order":43,"name":"Synth Pop","slug":"synth-pop-studies","category":"New batch 2","bpm":112,"midiFiles":28,"studies":4,"tag":"v1.0.0","repository":"https://github.com/mizcausevic-dev/synth-pop-studies","page":"https://mizcausevic-dev.github.io/synth-pop-studies/","pagesStatus":"built","httpStatus":200,"validation":"PASS"},
-        {"order":44,"name":"Minimal Techno","slug":"minimal-techno-studies","category":"New batch 2","bpm":124,"midiFiles":28,"studies":4,"tag":"v1.0.0","repository":"https://github.com/mizcausevic-dev/minimal-techno-studies","page":"https://mizcausevic-dev.github.io/minimal-techno-studies/","pagesStatus":"built","httpStatus":200,"validation":"PASS"},
-        {"order":25,"name":"Dub Techno","slug":"dub-techno","category":"New batch","bpm":122,"midiFiles":28,"studies":4,"tag":"v1.0.0","repository":"https://github.com/mizcausevic-dev/dub-techno","page":"https://mizcausevic-dev.github.io/dub-techno/","pagesStatus":"built","httpStatus":200,"validation":"PASS"},
-        {"order":26,"name":"UK Garage-Inspired","slug":"uk-garage-inspired","category":"New batch","bpm":132,"midiFiles":28,"studies":4,"tag":"v1.0.0","repository":"https://github.com/mizcausevic-dev/uk-garage-inspired","page":"https://mizcausevic-dev.github.io/uk-garage-inspired/","pagesStatus":"built","httpStatus":200,"validation":"PASS"},
-        {"order":27,"name":"Detroit Techno-Inspired","slug":"detroit-techno-inspired","category":"New batch","bpm":128,"midiFiles":28,"studies":4,"tag":"v1.0.0","repository":"https://github.com/mizcausevic-dev/detroit-techno-inspired","page":"https://mizcausevic-dev.github.io/detroit-techno-inspired/","pagesStatus":"built","httpStatus":200,"validation":"PASS"},
-        {"order":28,"name":"Ambient Piano","slug":"ambient-piano","category":"New batch","bpm":72,"midiFiles":28,"studies":4,"tag":"v1.0.0","repository":"https://github.com/mizcausevic-dev/ambient-piano","page":"https://mizcausevic-dev.github.io/ambient-piano/","pagesStatus":"built","httpStatus":200,"validation":"PASS"},
-        {"order":29,"name":"Acid Synth","slug":"acid-synth","category":"New batch","bpm":130,"midiFiles":28,"studies":4,"tag":"v1.0.0","repository":"https://github.com/mizcausevic-dev/acid-synth","page":"https://mizcausevic-dev.github.io/acid-synth/","pagesStatus":"built","httpStatus":200,"validation":"PASS"},
-        {"order":30,"name":"Jazz-Funk","slug":"jazz-funk","category":"New batch","bpm":108,"midiFiles":28,"studies":4,"tag":"v1.0.0","repository":"https://github.com/mizcausevic-dev/jazz-funk","page":"https://mizcausevic-dev.github.io/jazz-funk/","pagesStatus":"built","httpStatus":200,"validation":"PASS"},
-        {"order":31,"name":"Breakbeat","slug":"breakbeat","category":"New batch","bpm":136,"midiFiles":28,"studies":4,"tag":"v1.0.0","repository":"https://github.com/mizcausevic-dev/breakbeat","page":"https://mizcausevic-dev.github.io/breakbeat/","pagesStatus":"built","httpStatus":200,"validation":"PASS"},
-        {"order":32,"name":"Progressive House","slug":"progressive-house","category":"New batch","bpm":124,"midiFiles":28,"studies":4,"tag":"v1.0.0","repository":"https://github.com/mizcausevic-dev/progressive-house","page":"https://mizcausevic-dev.github.io/progressive-house/","pagesStatus":"built","httpStatus":200,"validation":"PASS"},
-        {"order":33,"name":"Dark Ambient","slug":"dark-ambient","category":"New batch","bpm":68,"midiFiles":28,"studies":4,"tag":"v1.0.0","repository":"https://github.com/mizcausevic-dev/dark-ambient","page":"https://mizcausevic-dev.github.io/dark-ambient/","pagesStatus":"built","httpStatus":200,"validation":"PASS"},
-        {"order":34,"name":"Synthwave","slug":"synthwave","category":"New batch","bpm":110,"midiFiles":28,"studies":4,"tag":"v1.0.0","repository":"https://github.com/mizcausevic-dev/synthwave","page":"https://mizcausevic-dev.github.io/synthwave/","pagesStatus":"built","httpStatus":200,"validation":"PASS"},
+        {
+          "order": 45,
+          "name": "Neo-Soul Keys",
+          "slug": "neo-soul-keys",
+          "category": "New batch 3",
+          "bpm": 84,
+          "midiFiles": 28,
+          "studies": 4,
+          "tag": "v1.0.0",
+          "repository": "https://github.com/mizcausevic-dev/neo-soul-keys",
+          "page": "https://mizcausevic-dev.github.io/neo-soul-keys/",
+          "pagesStatus": "built",
+          "httpStatus": 200,
+          "validation": "PASS",
+          "artwork": "https://mizcausevic-dev.github.io/neo-soul-keys/art/hero.jpg"
+        },
+        {
+          "order": 46,
+          "name": "Melodic Trance",
+          "slug": "melodic-trance-studies",
+          "category": "New batch 3",
+          "bpm": 138,
+          "midiFiles": 28,
+          "studies": 4,
+          "tag": "v1.0.0",
+          "repository": "https://github.com/mizcausevic-dev/melodic-trance-studies",
+          "page": "https://mizcausevic-dev.github.io/melodic-trance-studies/",
+          "pagesStatus": "built",
+          "httpStatus": 200,
+          "validation": "PASS",
+          "artwork": "https://mizcausevic-dev.github.io/melodic-trance-studies/art/hero.jpg"
+        },
+        {
+          "order": 47,
+          "name": "Jungle Breaks-Inspired",
+          "slug": "jungle-breaks-inspired",
+          "category": "New batch 3",
+          "bpm": 164,
+          "midiFiles": 28,
+          "studies": 4,
+          "tag": "v1.0.0",
+          "repository": "https://github.com/mizcausevic-dev/jungle-breaks-inspired",
+          "page": "https://mizcausevic-dev.github.io/jungle-breaks-inspired/",
+          "pagesStatus": "built",
+          "httpStatus": 200,
+          "validation": "PASS",
+          "artwork": "https://mizcausevic-dev.github.io/jungle-breaks-inspired/art/hero.jpg"
+        },
+        {
+          "order": 48,
+          "name": "Organic House",
+          "slug": "organic-house-studies",
+          "category": "New batch 3",
+          "bpm": 120,
+          "midiFiles": 28,
+          "studies": 4,
+          "tag": "v1.0.0",
+          "repository": "https://github.com/mizcausevic-dev/organic-house-studies",
+          "page": "https://mizcausevic-dev.github.io/organic-house-studies/",
+          "pagesStatus": "built",
+          "httpStatus": 200,
+          "validation": "PASS",
+          "artwork": "https://mizcausevic-dev.github.io/organic-house-studies/art/hero.jpg"
+        },
+        {
+          "order": 49,
+          "name": "UK Bassline-Inspired",
+          "slug": "uk-bassline-inspired",
+          "category": "New batch 3",
+          "bpm": 138,
+          "midiFiles": 28,
+          "studies": 4,
+          "tag": "v1.0.0",
+          "repository": "https://github.com/mizcausevic-dev/uk-bassline-inspired",
+          "page": "https://mizcausevic-dev.github.io/uk-bassline-inspired/",
+          "pagesStatus": "built",
+          "httpStatus": 200,
+          "validation": "PASS",
+          "artwork": "https://mizcausevic-dev.github.io/uk-bassline-inspired/art/hero.jpg"
+        },
+        {
+          "order": 50,
+          "name": "IDM Micro-Rhythms",
+          "slug": "idm-micro-rhythms",
+          "category": "New batch 3",
+          "bpm": 116,
+          "midiFiles": 28,
+          "studies": 4,
+          "tag": "v1.0.0",
+          "repository": "https://github.com/mizcausevic-dev/idm-micro-rhythms",
+          "page": "https://mizcausevic-dev.github.io/idm-micro-rhythms/",
+          "pagesStatus": "built",
+          "httpStatus": 200,
+          "validation": "PASS",
+          "artwork": "https://mizcausevic-dev.github.io/idm-micro-rhythms/art/hero.jpg"
+        },
+        {
+          "order": 51,
+          "name": "Contemporary R&B",
+          "slug": "contemporary-rnb-studies",
+          "category": "New batch 3",
+          "bpm": 78,
+          "midiFiles": 28,
+          "studies": 4,
+          "tag": "v1.0.0",
+          "repository": "https://github.com/mizcausevic-dev/contemporary-rnb-studies",
+          "page": "https://mizcausevic-dev.github.io/contemporary-rnb-studies/",
+          "pagesStatus": "built",
+          "httpStatus": 200,
+          "validation": "PASS",
+          "artwork": "https://mizcausevic-dev.github.io/contemporary-rnb-studies/art/hero.jpg"
+        },
+        {
+          "order": 52,
+          "name": "Boom-Bap Sketches",
+          "slug": "boom-bap-sketches",
+          "category": "New batch 3",
+          "bpm": 90,
+          "midiFiles": 28,
+          "studies": 4,
+          "tag": "v1.0.0",
+          "repository": "https://github.com/mizcausevic-dev/boom-bap-sketches",
+          "page": "https://mizcausevic-dev.github.io/boom-bap-sketches/",
+          "pagesStatus": "built",
+          "httpStatus": 200,
+          "validation": "PASS",
+          "artwork": "https://mizcausevic-dev.github.io/boom-bap-sketches/art/hero.jpg"
+        },
+        {
+          "order": 53,
+          "name": "Cinematic Tension",
+          "slug": "cinematic-tension-studies",
+          "category": "New batch 3",
+          "bpm": 72,
+          "midiFiles": 28,
+          "studies": 4,
+          "tag": "v1.0.0",
+          "repository": "https://github.com/mizcausevic-dev/cinematic-tension-studies",
+          "page": "https://mizcausevic-dev.github.io/cinematic-tension-studies/",
+          "pagesStatus": "built",
+          "httpStatus": 200,
+          "validation": "PASS",
+          "artwork": "https://mizcausevic-dev.github.io/cinematic-tension-studies/art/hero.jpg"
+        },
+        {
+          "order": 54,
+          "name": "Polyrhythmic Minimalism",
+          "slug": "polyrhythmic-minimalism",
+          "category": "New batch 3",
+          "bpm": 112,
+          "midiFiles": 28,
+          "studies": 4,
+          "tag": "v1.0.0",
+          "repository": "https://github.com/mizcausevic-dev/polyrhythmic-minimalism",
+          "page": "https://mizcausevic-dev.github.io/polyrhythmic-minimalism/",
+          "pagesStatus": "built",
+          "httpStatus": 200,
+          "validation": "PASS",
+          "artwork": "https://mizcausevic-dev.github.io/polyrhythmic-minimalism/art/hero.jpg"
+        },
+        {
+          "order": 35,
+          "name": "Trip-Hop-Inspired",
+          "slug": "trip-hop-studies",
+          "category": "New batch 2",
+          "bpm": 86,
+          "midiFiles": 28,
+          "studies": 4,
+          "tag": "v1.0.0",
+          "repository": "https://github.com/mizcausevic-dev/trip-hop-studies",
+          "page": "https://mizcausevic-dev.github.io/trip-hop-studies/",
+          "pagesStatus": "built",
+          "httpStatus": 200,
+          "validation": "PASS",
+          "artwork": "https://mizcausevic-dev.github.io/trip-hop-studies/art/hero.jpg"
+        },
+        {
+          "order": 36,
+          "name": "Deep House",
+          "slug": "deep-house-studies",
+          "category": "New batch 2",
+          "bpm": 122,
+          "midiFiles": 28,
+          "studies": 4,
+          "tag": "v1.0.0",
+          "repository": "https://github.com/mizcausevic-dev/deep-house-studies",
+          "page": "https://mizcausevic-dev.github.io/deep-house-studies/",
+          "pagesStatus": "built",
+          "httpStatus": 200,
+          "validation": "PASS",
+          "artwork": "https://mizcausevic-dev.github.io/deep-house-studies/art/hero.jpg"
+        },
+        {
+          "order": 37,
+          "name": "Liquid DnB-Inspired",
+          "slug": "liquid-dnb-studies",
+          "category": "New batch 2",
+          "bpm": 174,
+          "midiFiles": 28,
+          "studies": 4,
+          "tag": "v1.0.0",
+          "repository": "https://github.com/mizcausevic-dev/liquid-dnb-studies",
+          "page": "https://mizcausevic-dev.github.io/liquid-dnb-studies/",
+          "pagesStatus": "built",
+          "httpStatus": 200,
+          "validation": "PASS",
+          "artwork": "https://mizcausevic-dev.github.io/liquid-dnb-studies/art/hero.jpg"
+        },
+        {
+          "order": 38,
+          "name": "Downtempo",
+          "slug": "downtempo-studies",
+          "category": "New batch 2",
+          "bpm": 92,
+          "midiFiles": 28,
+          "studies": 4,
+          "tag": "v1.0.0",
+          "repository": "https://github.com/mizcausevic-dev/downtempo-studies",
+          "page": "https://mizcausevic-dev.github.io/downtempo-studies/",
+          "pagesStatus": "built",
+          "httpStatus": 200,
+          "validation": "PASS",
+          "artwork": "https://mizcausevic-dev.github.io/downtempo-studies/art/hero.jpg"
+        },
+        {
+          "order": 39,
+          "name": "Broken House",
+          "slug": "broken-house-studies",
+          "category": "New batch 2",
+          "bpm": 126,
+          "midiFiles": 28,
+          "studies": 4,
+          "tag": "v1.0.0",
+          "repository": "https://github.com/mizcausevic-dev/broken-house-studies",
+          "page": "https://mizcausevic-dev.github.io/broken-house-studies/",
+          "pagesStatus": "built",
+          "httpStatus": 200,
+          "validation": "PASS",
+          "artwork": "https://mizcausevic-dev.github.io/broken-house-studies/art/hero.jpg"
+        },
+        {
+          "order": 40,
+          "name": "Chillhop-Inspired",
+          "slug": "chillhop-studies",
+          "category": "New batch 2",
+          "bpm": 82,
+          "midiFiles": 28,
+          "studies": 4,
+          "tag": "v1.0.0",
+          "repository": "https://github.com/mizcausevic-dev/chillhop-studies",
+          "page": "https://mizcausevic-dev.github.io/chillhop-studies/",
+          "pagesStatus": "built",
+          "httpStatus": 200,
+          "validation": "PASS",
+          "artwork": "https://mizcausevic-dev.github.io/chillhop-studies/art/hero.jpg"
+        },
+        {
+          "order": 41,
+          "name": "Electro",
+          "slug": "electro-studies",
+          "category": "New batch 2",
+          "bpm": 128,
+          "midiFiles": 28,
+          "studies": 4,
+          "tag": "v1.0.0",
+          "repository": "https://github.com/mizcausevic-dev/electro-studies",
+          "page": "https://mizcausevic-dev.github.io/electro-studies/",
+          "pagesStatus": "built",
+          "httpStatus": 200,
+          "validation": "PASS",
+          "artwork": "https://mizcausevic-dev.github.io/electro-studies/art/hero.jpg"
+        },
+        {
+          "order": 42,
+          "name": "Ambient Techno",
+          "slug": "ambient-techno-studies",
+          "category": "New batch 2",
+          "bpm": 118,
+          "midiFiles": 28,
+          "studies": 4,
+          "tag": "v1.0.0",
+          "repository": "https://github.com/mizcausevic-dev/ambient-techno-studies",
+          "page": "https://mizcausevic-dev.github.io/ambient-techno-studies/",
+          "pagesStatus": "built",
+          "httpStatus": 200,
+          "validation": "PASS",
+          "artwork": "https://mizcausevic-dev.github.io/ambient-techno-studies/art/hero.jpg"
+        },
+        {
+          "order": 43,
+          "name": "Synth Pop",
+          "slug": "synth-pop-studies",
+          "category": "New batch 2",
+          "bpm": 112,
+          "midiFiles": 28,
+          "studies": 4,
+          "tag": "v1.0.0",
+          "repository": "https://github.com/mizcausevic-dev/synth-pop-studies",
+          "page": "https://mizcausevic-dev.github.io/synth-pop-studies/",
+          "pagesStatus": "built",
+          "httpStatus": 200,
+          "validation": "PASS",
+          "artwork": "https://mizcausevic-dev.github.io/synth-pop-studies/art/hero.jpg"
+        },
+        {
+          "order": 44,
+          "name": "Minimal Techno",
+          "slug": "minimal-techno-studies",
+          "category": "New batch 2",
+          "bpm": 124,
+          "midiFiles": 28,
+          "studies": 4,
+          "tag": "v1.0.0",
+          "repository": "https://github.com/mizcausevic-dev/minimal-techno-studies",
+          "page": "https://mizcausevic-dev.github.io/minimal-techno-studies/",
+          "pagesStatus": "built",
+          "httpStatus": 200,
+          "validation": "PASS",
+          "artwork": "https://mizcausevic-dev.github.io/minimal-techno-studies/art/hero.jpg"
+        },
+        {
+          "order": 25,
+          "name": "Dub Techno",
+          "slug": "dub-techno",
+          "category": "New batch",
+          "bpm": 122,
+          "midiFiles": 28,
+          "studies": 4,
+          "tag": "v1.0.0",
+          "repository": "https://github.com/mizcausevic-dev/dub-techno",
+          "page": "https://mizcausevic-dev.github.io/dub-techno/",
+          "pagesStatus": "built",
+          "httpStatus": 200,
+          "validation": "PASS",
+          "artwork": "https://mizcausevic-dev.github.io/dub-techno/art/cover.svg"
+        },
+        {
+          "order": 26,
+          "name": "UK Garage-Inspired",
+          "slug": "uk-garage-inspired",
+          "category": "New batch",
+          "bpm": 132,
+          "midiFiles": 28,
+          "studies": 4,
+          "tag": "v1.0.0",
+          "repository": "https://github.com/mizcausevic-dev/uk-garage-inspired",
+          "page": "https://mizcausevic-dev.github.io/uk-garage-inspired/",
+          "pagesStatus": "built",
+          "httpStatus": 200,
+          "validation": "PASS",
+          "artwork": "https://mizcausevic-dev.github.io/uk-garage-inspired/art/cover.svg"
+        },
+        {
+          "order": 27,
+          "name": "Detroit Techno-Inspired",
+          "slug": "detroit-techno-inspired",
+          "category": "New batch",
+          "bpm": 128,
+          "midiFiles": 28,
+          "studies": 4,
+          "tag": "v1.0.0",
+          "repository": "https://github.com/mizcausevic-dev/detroit-techno-inspired",
+          "page": "https://mizcausevic-dev.github.io/detroit-techno-inspired/",
+          "pagesStatus": "built",
+          "httpStatus": 200,
+          "validation": "PASS",
+          "artwork": "https://mizcausevic-dev.github.io/detroit-techno-inspired/art/cover.svg"
+        },
+        {
+          "order": 28,
+          "name": "Ambient Piano",
+          "slug": "ambient-piano",
+          "category": "New batch",
+          "bpm": 72,
+          "midiFiles": 28,
+          "studies": 4,
+          "tag": "v1.0.0",
+          "repository": "https://github.com/mizcausevic-dev/ambient-piano",
+          "page": "https://mizcausevic-dev.github.io/ambient-piano/",
+          "pagesStatus": "built",
+          "httpStatus": 200,
+          "validation": "PASS",
+          "artwork": "https://mizcausevic-dev.github.io/ambient-piano/art/cover.svg"
+        },
+        {
+          "order": 29,
+          "name": "Acid Synth",
+          "slug": "acid-synth",
+          "category": "New batch",
+          "bpm": 130,
+          "midiFiles": 28,
+          "studies": 4,
+          "tag": "v1.0.0",
+          "repository": "https://github.com/mizcausevic-dev/acid-synth",
+          "page": "https://mizcausevic-dev.github.io/acid-synth/",
+          "pagesStatus": "built",
+          "httpStatus": 200,
+          "validation": "PASS",
+          "artwork": "https://mizcausevic-dev.github.io/acid-synth/art/cover.svg"
+        },
+        {
+          "order": 30,
+          "name": "Jazz-Funk",
+          "slug": "jazz-funk",
+          "category": "New batch",
+          "bpm": 108,
+          "midiFiles": 28,
+          "studies": 4,
+          "tag": "v1.0.0",
+          "repository": "https://github.com/mizcausevic-dev/jazz-funk",
+          "page": "https://mizcausevic-dev.github.io/jazz-funk/",
+          "pagesStatus": "built",
+          "httpStatus": 200,
+          "validation": "PASS",
+          "artwork": "https://mizcausevic-dev.github.io/jazz-funk/art/cover.svg"
+        },
+        {
+          "order": 31,
+          "name": "Breakbeat",
+          "slug": "breakbeat",
+          "category": "New batch",
+          "bpm": 136,
+          "midiFiles": 28,
+          "studies": 4,
+          "tag": "v1.0.0",
+          "repository": "https://github.com/mizcausevic-dev/breakbeat",
+          "page": "https://mizcausevic-dev.github.io/breakbeat/",
+          "pagesStatus": "built",
+          "httpStatus": 200,
+          "validation": "PASS",
+          "artwork": "https://mizcausevic-dev.github.io/breakbeat/art/cover.svg"
+        },
+        {
+          "order": 32,
+          "name": "Progressive House",
+          "slug": "progressive-house",
+          "category": "New batch",
+          "bpm": 124,
+          "midiFiles": 28,
+          "studies": 4,
+          "tag": "v1.0.0",
+          "repository": "https://github.com/mizcausevic-dev/progressive-house",
+          "page": "https://mizcausevic-dev.github.io/progressive-house/",
+          "pagesStatus": "built",
+          "httpStatus": 200,
+          "validation": "PASS",
+          "artwork": "https://mizcausevic-dev.github.io/progressive-house/art/cover.svg"
+        },
+        {
+          "order": 33,
+          "name": "Dark Ambient",
+          "slug": "dark-ambient",
+          "category": "New batch",
+          "bpm": 68,
+          "midiFiles": 28,
+          "studies": 4,
+          "tag": "v1.0.0",
+          "repository": "https://github.com/mizcausevic-dev/dark-ambient",
+          "page": "https://mizcausevic-dev.github.io/dark-ambient/",
+          "pagesStatus": "built",
+          "httpStatus": 200,
+          "validation": "PASS",
+          "artwork": "https://mizcausevic-dev.github.io/dark-ambient/art/cover.svg"
+        },
+        {
+          "order": 34,
+          "name": "Synthwave",
+          "slug": "synthwave",
+          "category": "New batch",
+          "bpm": 110,
+          "midiFiles": 28,
+          "studies": 4,
+          "tag": "v1.0.0",
+          "repository": "https://github.com/mizcausevic-dev/synthwave",
+          "page": "https://mizcausevic-dev.github.io/synthwave/",
+          "pagesStatus": "built",
+          "httpStatus": 200,
+          "validation": "PASS",
+          "artwork": "https://mizcausevic-dev.github.io/synthwave/art/cover.svg"
+        },
         {
           "order": 1,
           "name": "Footwork",
@@ -41,7 +501,8 @@
           "page": "https://mizcausevic-dev.github.io/footwork-codex/",
           "pagesStatus": "built",
           "httpStatus": 200,
-          "validation": "PASS"
+          "validation": "PASS",
+          "artwork": "https://mizcausevic-dev.github.io/footwork-codex/art/hero.jpg"
         },
         {
           "order": 2,
@@ -56,7 +517,8 @@
           "page": "https://mizcausevic-dev.github.io/jersey-club/",
           "pagesStatus": "built",
           "httpStatus": 200,
-          "validation": "PASS"
+          "validation": "PASS",
+          "artwork": "https://mizcausevic-dev.github.io/jersey-club/art/cover.svg"
         },
         {
           "order": 3,
@@ -71,7 +533,8 @@
           "page": "https://mizcausevic-dev.github.io/baltimore-club/",
           "pagesStatus": "built",
           "httpStatus": 200,
-          "validation": "PASS"
+          "validation": "PASS",
+          "artwork": "https://mizcausevic-dev.github.io/baltimore-club/art/cover.svg"
         },
         {
           "order": 4,
@@ -86,7 +549,8 @@
           "page": "https://mizcausevic-dev.github.io/gqom-inspired/",
           "pagesStatus": "built",
           "httpStatus": 200,
-          "validation": "PASS"
+          "validation": "PASS",
+          "artwork": "https://mizcausevic-dev.github.io/gqom-inspired/art/cover.svg"
         },
         {
           "order": 5,
@@ -101,7 +565,8 @@
           "page": "https://mizcausevic-dev.github.io/amapiano-inspired/",
           "pagesStatus": "built",
           "httpStatus": 200,
-          "validation": "PASS"
+          "validation": "PASS",
+          "artwork": "https://mizcausevic-dev.github.io/amapiano-inspired/art/cover.svg"
         },
         {
           "order": 6,
@@ -116,7 +581,8 @@
           "page": "https://mizcausevic-dev.github.io/kuduro-inspired/",
           "pagesStatus": "built",
           "httpStatus": 200,
-          "validation": "PASS"
+          "validation": "PASS",
+          "artwork": "https://mizcausevic-dev.github.io/kuduro-inspired/art/cover.svg"
         },
         {
           "order": 7,
@@ -131,7 +597,8 @@
           "page": "https://mizcausevic-dev.github.io/baile-funk-inspired/",
           "pagesStatus": "built",
           "httpStatus": 200,
-          "validation": "PASS"
+          "validation": "PASS",
+          "artwork": "https://mizcausevic-dev.github.io/baile-funk-inspired/art/cover.svg"
         },
         {
           "order": 8,
@@ -146,7 +613,8 @@
           "page": "https://mizcausevic-dev.github.io/dembow-inspired/",
           "pagesStatus": "built",
           "httpStatus": 200,
-          "validation": "PASS"
+          "validation": "PASS",
+          "artwork": "https://mizcausevic-dev.github.io/dembow-inspired/art/cover.svg"
         },
         {
           "order": 9,
@@ -161,7 +629,8 @@
           "page": "https://mizcausevic-dev.github.io/uk-funky-inspired/",
           "pagesStatus": "built",
           "httpStatus": 200,
-          "validation": "PASS"
+          "validation": "PASS",
+          "artwork": "https://mizcausevic-dev.github.io/uk-funky-inspired/art/cover.svg"
         },
         {
           "order": 10,
@@ -176,7 +645,8 @@
           "page": "https://mizcausevic-dev.github.io/broken-beat/",
           "pagesStatus": "built",
           "httpStatus": 200,
-          "validation": "PASS"
+          "validation": "PASS",
+          "artwork": "https://mizcausevic-dev.github.io/broken-beat/art/cover.svg"
         },
         {
           "order": 11,
@@ -191,7 +661,8 @@
           "page": "https://mizcausevic-dev.github.io/bossa-nova/",
           "pagesStatus": "built",
           "httpStatus": 200,
-          "validation": "PASS"
+          "validation": "PASS",
+          "artwork": "https://mizcausevic-dev.github.io/bossa-nova/art/cover.svg"
         },
         {
           "order": 12,
@@ -206,7 +677,8 @@
           "page": "https://mizcausevic-dev.github.io/chamber-jazz/",
           "pagesStatus": "built",
           "httpStatus": 200,
-          "validation": "PASS"
+          "validation": "PASS",
+          "artwork": "https://mizcausevic-dev.github.io/chamber-jazz/art/cover.svg"
         },
         {
           "order": 13,
@@ -221,7 +693,8 @@
           "page": "https://mizcausevic-dev.github.io/post-rock/",
           "pagesStatus": "built",
           "httpStatus": 200,
-          "validation": "PASS"
+          "validation": "PASS",
+          "artwork": "https://mizcausevic-dev.github.io/post-rock/art/cover.svg"
         },
         {
           "order": 14,
@@ -236,7 +709,8 @@
           "page": "https://mizcausevic-dev.github.io/shoegaze-inspired/",
           "pagesStatus": "built",
           "httpStatus": 200,
-          "validation": "PASS"
+          "validation": "PASS",
+          "artwork": "https://mizcausevic-dev.github.io/shoegaze-inspired/art/cover.svg"
         },
         {
           "order": 15,
@@ -251,7 +725,8 @@
           "page": "https://mizcausevic-dev.github.io/math-rock/",
           "pagesStatus": "built",
           "httpStatus": 200,
-          "validation": "PASS"
+          "validation": "PASS",
+          "artwork": "https://mizcausevic-dev.github.io/math-rock/art/cover.svg"
         },
         {
           "order": 16,
@@ -266,7 +741,8 @@
           "page": "https://mizcausevic-dev.github.io/djent-inspired/",
           "pagesStatus": "built",
           "httpStatus": 200,
-          "validation": "PASS"
+          "validation": "PASS",
+          "artwork": "https://mizcausevic-dev.github.io/djent-inspired/art/cover.svg"
         },
         {
           "order": 17,
@@ -281,7 +757,8 @@
           "page": "https://mizcausevic-dev.github.io/blackgaze-inspired/",
           "pagesStatus": "built",
           "httpStatus": 200,
-          "validation": "PASS"
+          "validation": "PASS",
+          "artwork": "https://mizcausevic-dev.github.io/blackgaze-inspired/art/cover.svg"
         },
         {
           "order": 18,
@@ -296,7 +773,8 @@
           "page": "https://mizcausevic-dev.github.io/sludge-metal/",
           "pagesStatus": "built",
           "httpStatus": 200,
-          "validation": "PASS"
+          "validation": "PASS",
+          "artwork": "https://mizcausevic-dev.github.io/sludge-metal/art/cover.svg"
         },
         {
           "order": 19,
@@ -311,7 +789,8 @@
           "page": "https://mizcausevic-dev.github.io/dungeon-synth/",
           "pagesStatus": "built",
           "httpStatus": 200,
-          "validation": "PASS"
+          "validation": "PASS",
+          "artwork": "https://mizcausevic-dev.github.io/dungeon-synth/art/cover.svg"
         },
         {
           "order": 20,
@@ -326,7 +805,8 @@
           "page": "https://mizcausevic-dev.github.io/chiptune/",
           "pagesStatus": "built",
           "httpStatus": 200,
-          "validation": "PASS"
+          "validation": "PASS",
+          "artwork": "https://mizcausevic-dev.github.io/chiptune/art/cover.svg"
         },
         {
           "order": 21,
@@ -341,7 +821,8 @@
           "page": "https://mizcausevic-dev.github.io/electro-swing-inspired/",
           "pagesStatus": "built",
           "httpStatus": 200,
-          "validation": "PASS"
+          "validation": "PASS",
+          "artwork": "https://mizcausevic-dev.github.io/electro-swing-inspired/art/cover.svg"
         },
         {
           "order": 22,
@@ -356,7 +837,8 @@
           "page": "https://mizcausevic-dev.github.io/cinematic-minimalism/",
           "pagesStatus": "built",
           "httpStatus": 200,
-          "validation": "PASS"
+          "validation": "PASS",
+          "artwork": "https://mizcausevic-dev.github.io/cinematic-minimalism/art/cover.svg"
         },
         {
           "order": 23,
@@ -371,7 +853,8 @@
           "page": "https://mizcausevic-dev.github.io/neurofunk-inspired/",
           "pagesStatus": "built",
           "httpStatus": 200,
-          "validation": "PASS"
+          "validation": "PASS",
+          "artwork": "https://mizcausevic-dev.github.io/neurofunk-inspired/art/cover.svg"
         },
         {
           "order": 24,
@@ -386,7 +869,8 @@
           "page": "https://mizcausevic-dev.github.io/halftime-bass/",
           "pagesStatus": "built",
           "httpStatus": 200,
-          "validation": "PASS"
+          "validation": "PASS",
+          "artwork": "https://mizcausevic-dev.github.io/halftime-bass/art/cover.svg"
         }
       ],
       "source": {
@@ -401,7 +885,7 @@
           },
           {
             "title": "Pages deployment",
-            "detail": "GitHub Pages API state was observed as built for all 44 releases during their respective release checks."
+            "detail": "GitHub Pages API state was observed as built for all 54 releases during their respective release checks."
           },
           {
             "title": "Live endpoint",
@@ -415,7 +899,7 @@
         "metricDefinitions": [
           {
             "label": "Published release",
-            "definition": "One of the 44 repositories released in the current session with a public GitHub source URL and a configured Pages URL.",
+            "definition": "One of the 54 session repositories with verified public GitHub source and Pages.",
             "componentIds": [
               "release-total"
             ],
@@ -446,13 +930,13 @@
           "title": "Complete the missing media packages",
           "scope": "33 earlier packs",
           "why": "The original delivery brief called for a raster hero and a captioned preview film for every pack.",
-          "evidence": "A local audit found 11 of 44 release repositories contained both a JPG hero and an MP4; 33 did not.",
+          "evidence": "A local audit found 11 of the earlier 44 releases contained both a JPG hero and an MP4. The ten new releases also contain both, leaving 33 earlier packs without this media pair.",
           "gate": "Create and validate each missing package from its own canonical audio, with accurate artwork provenance and release checks."
         },
         {
           "priority": "P0",
           "title": "Human listening and producer QA",
-          "scope": "All 44 packs",
+          "scope": "All 54 packs",
           "why": "Automated MIDI validation does not establish musical usefulness, mix readiness, or arrangement quality.",
           "evidence": "Not performed in this session.",
           "gate": "Complete documented listening notes and a pass/fail decision per pack before commercial promotion."
@@ -460,7 +944,7 @@
         {
           "priority": "P0",
           "title": "Rights and cultural-sensitivity review",
-          "scope": "All 44 public releases",
+          "scope": "All 54 public releases",
           "why": "Public source and downloads do not prove commercial clearance or appropriate genre representation.",
           "evidence": "No rights or cultural-authenticity clearance was recorded.",
           "gate": "Approve final licensing terms, naming, and public commercial-use policy."
@@ -468,7 +952,7 @@
         {
           "priority": "P1",
           "title": "Pack-specific visual polish",
-          "scope": "44 Pages sites",
+          "scope": "54 Pages sites",
           "why": "Current covers and previews are functional release assets; differentiated art direction is needed for a less system-generated customer experience.",
           "evidence": "Pages contain original SVG covers and simple-synth previews; no human art-direction signoff was recorded.",
           "gate": "Approve unique cover/preview treatment for any pack selected for a paid launch."
