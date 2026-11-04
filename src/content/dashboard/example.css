@@ -1,3 +1,33 @@
 .release-page{--data-app-layout-intent:user-requested;--data-app-content-width:1440px;color:#181b1d;background:#fff;padding:36px 0 70px;font:16px/1.5 system-ui,sans-serif}.release-page h1,.release-page h2,.release-page h3{font-family:Georgia,serif;letter-spacing:-.035em}.release-page h1{font-size:clamp(3rem,6vw,5.5rem);line-height:1;margin:0}.release-page header p{font-size:1.2rem}.release-page .asof{font:13px system-ui;color:#5c6469}.release-page h2{font-size:2.4rem;margin:0 0 16px}.release-page h3{font-size:1.45rem;margin:0 0 8px}.release-page section{padding:46px 0;border-bottom:1px solid #b9bec1}.metrics{display:grid;grid-template-columns:repeat(4,1fr);margin:26px 0}.metrics div{padding:0 24px;border-left:1px solid #c7cbce}.metrics div:first-child{padding-left:0;border:0}.metrics strong,.metrics span{display:block}.metrics strong{font-size:2.8rem;line-height:1;color:#bd3e20}.metrics div:nth-child(even) strong{color:#1758a0}.section-nav{display:flex;gap:32px;border-block:1px solid #929a9d;padding:14px 0}.release-page a{color:#1456a0;text-underline-offset:3px}.filters-local{display:flex;gap:22px;align-items:end;flex-wrap:wrap;margin:20px 0}.filters-local label{display:grid;gap:5px;font-size:13px}.filters-local input,.filters-local select{border:1px solid #879195;background:#fff;color:#181b1d;padding:10px;font:inherit;min-width:190px}.filters-local span{margin-left:auto}.ledger{display:grid;grid-template-columns:minmax(0,3fr) minmax(230px,1fr);gap:25px}.table-scroll{overflow:auto}.release-page table{border-collapse:collapse;width:100%;min-width:620px;text-align:left}.release-page th{background:#edf0f1}.release-page td,.release-page th{border-bottom:1px solid #ccd1d3;padding:12px}.release-page tr.selected{background:#fbe9e1}.release-page td button{font:inherit;font-weight:700;color:inherit;background:none;border:0;padding:3px;cursor:pointer;text-align:left}.release-page aside{border-left:1px solid #aab0b2;padding-left:24px}.release-page dl{display:grid;grid-template-columns:1fr 1fr;gap:8px}.release-page dd{margin:0}.release-page dt{font-weight:700}.actions-list{list-style:none;padding:0;margin:0}.actions-list li{display:grid;grid-template-columns:50px 1fr 180px;gap:18px;padding:20px 0;border-bottom:1px solid #ccd1d3}.actions-list b{color:#bd3e20}.actions-list p{margin:0 0 8px}.actions-list small{color:#505b60}.release-page :is(a,button,input,select):focus-visible{outline:3px solid #1758a0;outline-offset:3px}@media(max-width:760px){.metrics{grid-template-columns:1fr 1fr;gap:20px}.metrics div:nth-child(3){border:0;padding-left:0}.ledger{grid-template-columns:1fr}.release-page aside{border-left:0;border-top:1px solid #aaa;padding:20px 0}.actions-list li{grid-template-columns:42px 1fr}.actions-list li>span{grid-column:2}.filters-local span{margin-left:0}.section-nav{gap:14px;flex-wrap:wrap}}
 .pack-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:22px}.pack-card{overflow:hidden;border:1px solid #34393a;border-radius:14px;background:#191b1b;color:#f4f3ef}.pack-art{display:block;aspect-ratio:16/9;overflow:hidden;background:#282d2e}.pack-art img{display:block;width:100%;height:100%;object-fit:cover}.pack-copy{padding:22px}.release-page .pack-card h3{font-family:system-ui,sans-serif;font-size:1.3rem;letter-spacing:-.02em;margin:4px 0 9px}.pack-card p{margin:0 0 9px;color:#c5c9c8}.pack-card .pack-family{color:#a9b3b2;font-size:.82rem;text-transform:uppercase;letter-spacing:.09em}.pack-card .pack-status{font-size:.88rem}.pack-links{display:grid;gap:6px;margin-top:14px}.release-page .pack-links a{color:#f4f3ef;font-weight:650;width:fit-content}.release-page .pack-card :is(a,button):focus-visible{outline-color:#fff}@media(max-width:1000px){.pack-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}@media(max-width:620px){.pack-grid{grid-template-columns:1fr}.pack-copy{padding:18px}}
 .release-page .metrics div{min-width:0}@media(max-width:620px){.release-page .metrics{gap:18px 10px}.release-page .metrics div{padding-left:12px;padding-right:0}.release-page .metrics div:first-child,.release-page .metrics div:nth-child(3){padding-left:0}.release-page .metrics strong{font-size:clamp(1.6rem,9vw,2.5rem)}.release-page .metrics span{overflow-wrap:anywhere}}
+
+/* Interior spacing belongs to the authored surface; shell chrome remains unchanged. */
+.release-page {
+  box-sizing: border-box;
+  min-width: 0;
+  padding: clamp(24px, 4vw, 64px);
+}
+.release-page header {
+  max-width: 72rem;
+  margin-bottom: clamp(36px, 4vw, 56px);
+}
+.release-page h1 {
+  font-size: clamp(2.6rem, 5vw, 4.75rem);
+  line-height: 1.04;
+}
+.release-page header p { max-width: 54rem; }
+.release-page .section-nav {
+  margin-top: clamp(28px, 3vw, 44px);
+  padding-block: 18px;
+}
+.release-page section { padding-block: clamp(42px, 5vw, 64px); }
+.release-page .filters-local { margin-block: 24px 36px; }
+.release-page .pack-grid { gap: clamp(18px, 2vw, 28px); }
+@media (max-width: 620px) {
+  .release-page { padding: 24px 20px 48px; }
+  .release-page .filters-local label,
+  .release-page .filters-local input,
+  .release-page .filters-local select { width: 100%; box-sizing: border-box; }
+  .release-page .filters-local { gap: 16px; }
+}
