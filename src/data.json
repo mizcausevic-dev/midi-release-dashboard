@@ -1,0 +1,495 @@
+{
+  "title": "MIDI Release Control",
+  "status": "reviewed-snapshot",
+  "generatedAt": "2026-11-04",
+  "buildStatus": "complete",
+  "filters": [],
+  "queries": {
+    "releases": {
+      "name": "Session MIDI releases",
+      "rows": [
+        {"order":25,"name":"Dub Techno","slug":"dub-techno","category":"New batch","bpm":122,"midiFiles":28,"studies":4,"tag":"v1.0.0","repository":"https://github.com/mizcausevic-dev/dub-techno","page":"https://mizcausevic-dev.github.io/dub-techno/","pagesStatus":"built","httpStatus":200,"validation":"PASS"},
+        {"order":26,"name":"UK Garage-Inspired","slug":"uk-garage-inspired","category":"New batch","bpm":132,"midiFiles":28,"studies":4,"tag":"v1.0.0","repository":"https://github.com/mizcausevic-dev/uk-garage-inspired","page":"https://mizcausevic-dev.github.io/uk-garage-inspired/","pagesStatus":"building","httpStatus":404,"validation":"PASS"},
+        {"order":27,"name":"Detroit Techno-Inspired","slug":"detroit-techno-inspired","category":"New batch","bpm":128,"midiFiles":28,"studies":4,"tag":"v1.0.0","repository":"https://github.com/mizcausevic-dev/detroit-techno-inspired","page":"https://mizcausevic-dev.github.io/detroit-techno-inspired/","pagesStatus":"built","httpStatus":200,"validation":"PASS"},
+        {"order":28,"name":"Ambient Piano","slug":"ambient-piano","category":"New batch","bpm":72,"midiFiles":28,"studies":4,"tag":"v1.0.0","repository":"https://github.com/mizcausevic-dev/ambient-piano","page":"https://mizcausevic-dev.github.io/ambient-piano/","pagesStatus":"built","httpStatus":200,"validation":"PASS"},
+        {"order":29,"name":"Acid Synth","slug":"acid-synth","category":"New batch","bpm":130,"midiFiles":28,"studies":4,"tag":"v1.0.0","repository":"https://github.com/mizcausevic-dev/acid-synth","page":"https://mizcausevic-dev.github.io/acid-synth/","pagesStatus":"built","httpStatus":200,"validation":"PASS"},
+        {"order":30,"name":"Jazz-Funk","slug":"jazz-funk","category":"New batch","bpm":108,"midiFiles":28,"studies":4,"tag":"v1.0.0","repository":"https://github.com/mizcausevic-dev/jazz-funk","page":"https://mizcausevic-dev.github.io/jazz-funk/","pagesStatus":"built","httpStatus":200,"validation":"PASS"},
+        {"order":31,"name":"Breakbeat","slug":"breakbeat","category":"New batch","bpm":136,"midiFiles":28,"studies":4,"tag":"v1.0.0","repository":"https://github.com/mizcausevic-dev/breakbeat","page":"https://mizcausevic-dev.github.io/breakbeat/","pagesStatus":"built","httpStatus":200,"validation":"PASS"},
+        {"order":32,"name":"Progressive House","slug":"progressive-house","category":"New batch","bpm":124,"midiFiles":28,"studies":4,"tag":"v1.0.0","repository":"https://github.com/mizcausevic-dev/progressive-house","page":"https://mizcausevic-dev.github.io/progressive-house/","pagesStatus":"built","httpStatus":200,"validation":"PASS"},
+        {"order":33,"name":"Dark Ambient","slug":"dark-ambient","category":"New batch","bpm":68,"midiFiles":28,"studies":4,"tag":"v1.0.0","repository":"https://github.com/mizcausevic-dev/dark-ambient","page":"https://mizcausevic-dev.github.io/dark-ambient/","pagesStatus":"built","httpStatus":200,"validation":"PASS"},
+        {"order":34,"name":"Synthwave","slug":"synthwave","category":"New batch","bpm":110,"midiFiles":28,"studies":4,"tag":"v1.0.0","repository":"https://github.com/mizcausevic-dev/synthwave","page":"https://mizcausevic-dev.github.io/synthwave/","pagesStatus":"built","httpStatus":200,"validation":"PASS"},
+        {
+          "order": 1,
+          "name": "Footwork",
+          "slug": "footwork-codex",
+          "category": "Club systems",
+          "bpm": 160,
+          "midiFiles": 28,
+          "studies": 4,
+          "tag": "v1.0.0",
+          "repository": "https://github.com/mizcausevic-dev/footwork-codex",
+          "page": "https://mizcausevic-dev.github.io/footwork-codex/",
+          "pagesStatus": "built",
+          "httpStatus": 200,
+          "validation": "PASS"
+        },
+        {
+          "order": 2,
+          "name": "Jersey Club",
+          "slug": "jersey-club",
+          "category": "Club systems",
+          "bpm": 138,
+          "midiFiles": 28,
+          "studies": 4,
+          "tag": "v1.0.0",
+          "repository": "https://github.com/mizcausevic-dev/jersey-club",
+          "page": "https://mizcausevic-dev.github.io/jersey-club/",
+          "pagesStatus": "built",
+          "httpStatus": 200,
+          "validation": "PASS"
+        },
+        {
+          "order": 3,
+          "name": "Baltimore Club",
+          "slug": "baltimore-club",
+          "category": "Club systems",
+          "bpm": 130,
+          "midiFiles": 28,
+          "studies": 4,
+          "tag": "v1.0.0",
+          "repository": "https://github.com/mizcausevic-dev/baltimore-club",
+          "page": "https://mizcausevic-dev.github.io/baltimore-club/",
+          "pagesStatus": "built",
+          "httpStatus": 200,
+          "validation": "PASS"
+        },
+        {
+          "order": 4,
+          "name": "Gqom-Inspired",
+          "slug": "gqom-inspired",
+          "category": "Club systems",
+          "bpm": 124,
+          "midiFiles": 28,
+          "studies": 4,
+          "tag": "v1.0.0",
+          "repository": "https://github.com/mizcausevic-dev/gqom-inspired",
+          "page": "https://mizcausevic-dev.github.io/gqom-inspired/",
+          "pagesStatus": "built",
+          "httpStatus": 200,
+          "validation": "PASS"
+        },
+        {
+          "order": 5,
+          "name": "Amapiano-Inspired",
+          "slug": "amapiano-inspired",
+          "category": "Club systems",
+          "bpm": 112,
+          "midiFiles": 28,
+          "studies": 4,
+          "tag": "v1.0.0",
+          "repository": "https://github.com/mizcausevic-dev/amapiano-inspired",
+          "page": "https://mizcausevic-dev.github.io/amapiano-inspired/",
+          "pagesStatus": "built",
+          "httpStatus": 200,
+          "validation": "PASS"
+        },
+        {
+          "order": 6,
+          "name": "Kuduro-Inspired",
+          "slug": "kuduro-inspired",
+          "category": "Club systems",
+          "bpm": 140,
+          "midiFiles": 28,
+          "studies": 4,
+          "tag": "v1.0.0",
+          "repository": "https://github.com/mizcausevic-dev/kuduro-inspired",
+          "page": "https://mizcausevic-dev.github.io/kuduro-inspired/",
+          "pagesStatus": "built",
+          "httpStatus": 200,
+          "validation": "PASS"
+        },
+        {
+          "order": 7,
+          "name": "Baile Funk-Inspired",
+          "slug": "baile-funk-inspired",
+          "category": "Club systems",
+          "bpm": 132,
+          "midiFiles": 28,
+          "studies": 4,
+          "tag": "v1.0.0",
+          "repository": "https://github.com/mizcausevic-dev/baile-funk-inspired",
+          "page": "https://mizcausevic-dev.github.io/baile-funk-inspired/",
+          "pagesStatus": "built",
+          "httpStatus": 200,
+          "validation": "PASS"
+        },
+        {
+          "order": 8,
+          "name": "Dembow-Inspired",
+          "slug": "dembow-inspired",
+          "category": "Club systems",
+          "bpm": 116,
+          "midiFiles": 28,
+          "studies": 4,
+          "tag": "v1.0.0",
+          "repository": "https://github.com/mizcausevic-dev/dembow-inspired",
+          "page": "https://mizcausevic-dev.github.io/dembow-inspired/",
+          "pagesStatus": "built",
+          "httpStatus": 200,
+          "validation": "PASS"
+        },
+        {
+          "order": 9,
+          "name": "UK Funky-Inspired",
+          "slug": "uk-funky-inspired",
+          "category": "Club systems",
+          "bpm": 128,
+          "midiFiles": 28,
+          "studies": 4,
+          "tag": "v1.0.0",
+          "repository": "https://github.com/mizcausevic-dev/uk-funky-inspired",
+          "page": "https://mizcausevic-dev.github.io/uk-funky-inspired/",
+          "pagesStatus": "built",
+          "httpStatus": 200,
+          "validation": "PASS"
+        },
+        {
+          "order": 10,
+          "name": "Broken Beat",
+          "slug": "broken-beat",
+          "category": "Groove & ensemble",
+          "bpm": 118,
+          "midiFiles": 28,
+          "studies": 4,
+          "tag": "v1.0.0",
+          "repository": "https://github.com/mizcausevic-dev/broken-beat",
+          "page": "https://mizcausevic-dev.github.io/broken-beat/",
+          "pagesStatus": "built",
+          "httpStatus": 200,
+          "validation": "PASS"
+        },
+        {
+          "order": 11,
+          "name": "Bossa Nova",
+          "slug": "bossa-nova",
+          "category": "Groove & ensemble",
+          "bpm": 96,
+          "midiFiles": 28,
+          "studies": 4,
+          "tag": "v1.0.0",
+          "repository": "https://github.com/mizcausevic-dev/bossa-nova",
+          "page": "https://mizcausevic-dev.github.io/bossa-nova/",
+          "pagesStatus": "built",
+          "httpStatus": 200,
+          "validation": "PASS"
+        },
+        {
+          "order": 12,
+          "name": "Chamber Jazz",
+          "slug": "chamber-jazz",
+          "category": "Groove & ensemble",
+          "bpm": 104,
+          "midiFiles": 28,
+          "studies": 4,
+          "tag": "v1.0.0",
+          "repository": "https://github.com/mizcausevic-dev/chamber-jazz",
+          "page": "https://mizcausevic-dev.github.io/chamber-jazz/",
+          "pagesStatus": "built",
+          "httpStatus": 200,
+          "validation": "PASS"
+        },
+        {
+          "order": 13,
+          "name": "Post-Rock",
+          "slug": "post-rock",
+          "category": "Guitar & heavy",
+          "bpm": 108,
+          "midiFiles": 28,
+          "studies": 4,
+          "tag": "v1.0.0",
+          "repository": "https://github.com/mizcausevic-dev/post-rock",
+          "page": "https://mizcausevic-dev.github.io/post-rock/",
+          "pagesStatus": "built",
+          "httpStatus": 200,
+          "validation": "PASS"
+        },
+        {
+          "order": 14,
+          "name": "Shoegaze-Inspired",
+          "slug": "shoegaze-inspired",
+          "category": "Guitar & heavy",
+          "bpm": 116,
+          "midiFiles": 28,
+          "studies": 4,
+          "tag": "v1.0.0",
+          "repository": "https://github.com/mizcausevic-dev/shoegaze-inspired",
+          "page": "https://mizcausevic-dev.github.io/shoegaze-inspired/",
+          "pagesStatus": "built",
+          "httpStatus": 200,
+          "validation": "PASS"
+        },
+        {
+          "order": 15,
+          "name": "Math Rock",
+          "slug": "math-rock",
+          "category": "Guitar & heavy",
+          "bpm": 132,
+          "midiFiles": 28,
+          "studies": 4,
+          "tag": "v1.0.0",
+          "repository": "https://github.com/mizcausevic-dev/math-rock",
+          "page": "https://mizcausevic-dev.github.io/math-rock/",
+          "pagesStatus": "built",
+          "httpStatus": 200,
+          "validation": "PASS"
+        },
+        {
+          "order": 16,
+          "name": "Djent-Inspired",
+          "slug": "djent-inspired",
+          "category": "Guitar & heavy",
+          "bpm": 144,
+          "midiFiles": 28,
+          "studies": 4,
+          "tag": "v1.0.0",
+          "repository": "https://github.com/mizcausevic-dev/djent-inspired",
+          "page": "https://mizcausevic-dev.github.io/djent-inspired/",
+          "pagesStatus": "built",
+          "httpStatus": 200,
+          "validation": "PASS"
+        },
+        {
+          "order": 17,
+          "name": "Blackgaze-Inspired",
+          "slug": "blackgaze-inspired",
+          "category": "Guitar & heavy",
+          "bpm": 168,
+          "midiFiles": 28,
+          "studies": 4,
+          "tag": "v1.0.0",
+          "repository": "https://github.com/mizcausevic-dev/blackgaze-inspired",
+          "page": "https://mizcausevic-dev.github.io/blackgaze-inspired/",
+          "pagesStatus": "built",
+          "httpStatus": 200,
+          "validation": "PASS"
+        },
+        {
+          "order": 18,
+          "name": "Sludge Metal",
+          "slug": "sludge-metal",
+          "category": "Guitar & heavy",
+          "bpm": 72,
+          "midiFiles": 28,
+          "studies": 4,
+          "tag": "v1.0.0",
+          "repository": "https://github.com/mizcausevic-dev/sludge-metal",
+          "page": "https://mizcausevic-dev.github.io/sludge-metal/",
+          "pagesStatus": "built",
+          "httpStatus": 200,
+          "validation": "PASS"
+        },
+        {
+          "order": 19,
+          "name": "Dungeon Synth",
+          "slug": "dungeon-synth",
+          "category": "Electronic worlds",
+          "bpm": 76,
+          "midiFiles": 28,
+          "studies": 4,
+          "tag": "v1.0.0",
+          "repository": "https://github.com/mizcausevic-dev/dungeon-synth",
+          "page": "https://mizcausevic-dev.github.io/dungeon-synth/",
+          "pagesStatus": "built",
+          "httpStatus": 200,
+          "validation": "PASS"
+        },
+        {
+          "order": 20,
+          "name": "Chiptune",
+          "slug": "chiptune",
+          "category": "Electronic worlds",
+          "bpm": 148,
+          "midiFiles": 28,
+          "studies": 4,
+          "tag": "v1.0.0",
+          "repository": "https://github.com/mizcausevic-dev/chiptune",
+          "page": "https://mizcausevic-dev.github.io/chiptune/",
+          "pagesStatus": "built",
+          "httpStatus": 200,
+          "validation": "PASS"
+        },
+        {
+          "order": 21,
+          "name": "Electro Swing-Inspired",
+          "slug": "electro-swing-inspired",
+          "category": "Electronic worlds",
+          "bpm": 124,
+          "midiFiles": 28,
+          "studies": 4,
+          "tag": "v1.0.0",
+          "repository": "https://github.com/mizcausevic-dev/electro-swing-inspired",
+          "page": "https://mizcausevic-dev.github.io/electro-swing-inspired/",
+          "pagesStatus": "built",
+          "httpStatus": 200,
+          "validation": "PASS"
+        },
+        {
+          "order": 22,
+          "name": "Cinematic Minimalism",
+          "slug": "cinematic-minimalism",
+          "category": "Electronic worlds",
+          "bpm": 88,
+          "midiFiles": 28,
+          "studies": 4,
+          "tag": "v1.0.0",
+          "repository": "https://github.com/mizcausevic-dev/cinematic-minimalism",
+          "page": "https://mizcausevic-dev.github.io/cinematic-minimalism/",
+          "pagesStatus": "built",
+          "httpStatus": 200,
+          "validation": "PASS"
+        },
+        {
+          "order": 23,
+          "name": "Neurofunk-Inspired",
+          "slug": "neurofunk-inspired",
+          "category": "Electronic worlds",
+          "bpm": 172,
+          "midiFiles": 28,
+          "studies": 4,
+          "tag": "v1.0.0",
+          "repository": "https://github.com/mizcausevic-dev/neurofunk-inspired",
+          "page": "https://mizcausevic-dev.github.io/neurofunk-inspired/",
+          "pagesStatus": "built",
+          "httpStatus": 200,
+          "validation": "PASS"
+        },
+        {
+          "order": 24,
+          "name": "Halftime Bass",
+          "slug": "halftime-bass",
+          "category": "Electronic worlds",
+          "bpm": 168,
+          "midiFiles": 28,
+          "studies": 4,
+          "tag": "v1.0.0",
+          "repository": "https://github.com/mizcausevic-dev/halftime-bass",
+          "page": "https://mizcausevic-dev.github.io/halftime-bass/",
+          "pagesStatus": "built",
+          "httpStatus": 200,
+          "validation": "PASS"
+        }
+      ],
+      "source": {
+        "provider": "GitHub CLI and GitHub Pages",
+        "sourceIdentity": "mizcausevic-dev / current session release train",
+        "executedAt": "2026-11-04",
+        "generatedAt": "2026-11-04",
+        "evidenceFlow": [
+          {
+            "title": "Repository metadata",
+            "detail": "Repository URL, homepage, description, topics, and release tag were read from the public GitHub remote."
+          },
+          {
+            "title": "Pages deployment",
+            "detail": "GitHub Pages API state was observed per release. UK Garage-Inspired was still building at the last check."
+          },
+          {
+            "title": "Live endpoint",
+            "detail": "The root URL was checked per release. UK Garage-Inspired returned 404 while its deployment was building."
+          },
+          {
+            "title": "Release validation",
+            "detail": "Each local release's validation report recorded PASS before its public release commit."
+          }
+        ],
+        "metricDefinitions": [
+          {
+            "label": "Published release",
+            "definition": "One of the 34 repositories released in the current session with a public GitHub source URL and a configured Pages URL.",
+            "componentIds": [
+              "release-total"
+            ],
+            "formula": "count(releases)",
+            "dependencies": [
+              "releases"
+            ]
+          },
+          {
+            "label": "Validated MIDI exports",
+            "definition": "Sum of 28 recorded MIDI exports across each release row.",
+            "componentIds": [
+              "midi-total"
+            ],
+            "formula": "sum(midiFiles)",
+            "dependencies": [
+              "midiFiles"
+            ]
+          }
+        ]
+      }
+    },
+    "next_actions": {
+      "name": "Commercialization gates",
+      "rows": [
+        {
+          "priority": "P0",
+          "title": "Human listening and producer QA",
+          "scope": "All 34 packs",
+          "why": "Automated MIDI validation does not establish musical usefulness, mix readiness, or arrangement quality.",
+          "evidence": "Not performed in this session.",
+          "gate": "Complete documented listening notes and a pass/fail decision per pack before commercial promotion."
+        },
+        {
+          "priority": "P0",
+          "title": "Rights and cultural-sensitivity review",
+          "scope": "All 34 public releases",
+          "why": "Public source and downloads do not prove commercial clearance or appropriate genre representation.",
+          "evidence": "No rights or cultural-authenticity clearance was recorded.",
+          "gate": "Approve final licensing terms, naming, and public commercial-use policy."
+        },
+        {
+          "priority": "P1",
+          "title": "Pack-specific visual polish",
+          "scope": "34 Pages sites",
+          "why": "Current covers and previews are functional release assets; differentiated art direction is needed for a less system-generated customer experience.",
+          "evidence": "Pages contain original SVG covers and simple-synth previews; no human art-direction signoff was recorded.",
+          "gate": "Approve unique cover/preview treatment for any pack selected for a paid launch."
+        },
+        {
+          "priority": "P1",
+          "title": "Storefront, licensing, and entitlement path",
+          "scope": "Collection level",
+          "why": "There is no payment, license selection, fulfillment, or buyer-support path in the published pack Pages.",
+          "evidence": "No commerce or payment system was built in this session.",
+          "gate": "Choose merchant, price architecture, license terms, and customer delivery workflow before implementation."
+        },
+        {
+          "priority": "P2",
+          "title": "Curated bundle hub",
+          "scope": "Collection level",
+          "why": "A single collection surface can connect the validated catalog to a commercial path once P0/P1 release gates are resolved.",
+          "evidence": "This dashboard is release control, not a sales or checkout surface.",
+          "gate": "Build only after commercial proposition, rights, and storefront decisions are approved."
+        }
+      ],
+      "source": {
+        "provider": "Current-session release evidence",
+        "sourceIdentity": "release completion and unperformed review boundaries",
+        "executedAt": "2026-11-04",
+        "generatedAt": "2026-11-04",
+        "evidenceFlow": [
+          {
+            "title": "Scope boundary",
+            "detail": "Actions are ranked from recorded release evidence and explicit missing review steps, not predicted customer demand or revenue."
+          }
+        ]
+      }
+    }
+  },
+  "surface": "dashboard",
+  "id": "dashboard:2cf77e73-d46e-40de-9d22-6407b2c7945c",
+  "exportPreferences": {
+    "selected": null,
+    "destinations": []
+  }
+}
