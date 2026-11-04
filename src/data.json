@@ -1,13 +1,23 @@
 {
   "title": "MIDI Release Control",
   "status": "reviewed-snapshot",
-  "generatedAt": "2026-11-04T17:51:15Z",
+  "generatedAt": "2026-11-04T19:22:00Z",
   "buildStatus": "complete",
   "filters": [],
   "queries": {
     "releases": {
       "name": "Session MIDI releases",
       "rows": [
+        {"order":35,"name":"Trip-Hop-Inspired","slug":"trip-hop-studies","category":"New batch 2","bpm":86,"midiFiles":28,"studies":4,"tag":"v1.0.0","repository":"https://github.com/mizcausevic-dev/trip-hop-studies","page":"https://mizcausevic-dev.github.io/trip-hop-studies/","pagesStatus":"built","httpStatus":200,"validation":"PASS"},
+        {"order":36,"name":"Deep House","slug":"deep-house-studies","category":"New batch 2","bpm":122,"midiFiles":28,"studies":4,"tag":"v1.0.0","repository":"https://github.com/mizcausevic-dev/deep-house-studies","page":"https://mizcausevic-dev.github.io/deep-house-studies/","pagesStatus":"built","httpStatus":200,"validation":"PASS"},
+        {"order":37,"name":"Liquid DnB-Inspired","slug":"liquid-dnb-studies","category":"New batch 2","bpm":174,"midiFiles":28,"studies":4,"tag":"v1.0.0","repository":"https://github.com/mizcausevic-dev/liquid-dnb-studies","page":"https://mizcausevic-dev.github.io/liquid-dnb-studies/","pagesStatus":"built","httpStatus":200,"validation":"PASS"},
+        {"order":38,"name":"Downtempo","slug":"downtempo-studies","category":"New batch 2","bpm":92,"midiFiles":28,"studies":4,"tag":"v1.0.0","repository":"https://github.com/mizcausevic-dev/downtempo-studies","page":"https://mizcausevic-dev.github.io/downtempo-studies/","pagesStatus":"built","httpStatus":200,"validation":"PASS"},
+        {"order":39,"name":"Broken House","slug":"broken-house-studies","category":"New batch 2","bpm":126,"midiFiles":28,"studies":4,"tag":"v1.0.0","repository":"https://github.com/mizcausevic-dev/broken-house-studies","page":"https://mizcausevic-dev.github.io/broken-house-studies/","pagesStatus":"built","httpStatus":200,"validation":"PASS"},
+        {"order":40,"name":"Chillhop-Inspired","slug":"chillhop-studies","category":"New batch 2","bpm":82,"midiFiles":28,"studies":4,"tag":"v1.0.0","repository":"https://github.com/mizcausevic-dev/chillhop-studies","page":"https://mizcausevic-dev.github.io/chillhop-studies/","pagesStatus":"built","httpStatus":200,"validation":"PASS"},
+        {"order":41,"name":"Electro","slug":"electro-studies","category":"New batch 2","bpm":128,"midiFiles":28,"studies":4,"tag":"v1.0.0","repository":"https://github.com/mizcausevic-dev/electro-studies","page":"https://mizcausevic-dev.github.io/electro-studies/","pagesStatus":"built","httpStatus":200,"validation":"PASS"},
+        {"order":42,"name":"Ambient Techno","slug":"ambient-techno-studies","category":"New batch 2","bpm":118,"midiFiles":28,"studies":4,"tag":"v1.0.0","repository":"https://github.com/mizcausevic-dev/ambient-techno-studies","page":"https://mizcausevic-dev.github.io/ambient-techno-studies/","pagesStatus":"built","httpStatus":200,"validation":"PASS"},
+        {"order":43,"name":"Synth Pop","slug":"synth-pop-studies","category":"New batch 2","bpm":112,"midiFiles":28,"studies":4,"tag":"v1.0.0","repository":"https://github.com/mizcausevic-dev/synth-pop-studies","page":"https://mizcausevic-dev.github.io/synth-pop-studies/","pagesStatus":"built","httpStatus":200,"validation":"PASS"},
+        {"order":44,"name":"Minimal Techno","slug":"minimal-techno-studies","category":"New batch 2","bpm":124,"midiFiles":28,"studies":4,"tag":"v1.0.0","repository":"https://github.com/mizcausevic-dev/minimal-techno-studies","page":"https://mizcausevic-dev.github.io/minimal-techno-studies/","pagesStatus":"built","httpStatus":200,"validation":"PASS"},
         {"order":25,"name":"Dub Techno","slug":"dub-techno","category":"New batch","bpm":122,"midiFiles":28,"studies":4,"tag":"v1.0.0","repository":"https://github.com/mizcausevic-dev/dub-techno","page":"https://mizcausevic-dev.github.io/dub-techno/","pagesStatus":"built","httpStatus":200,"validation":"PASS"},
         {"order":26,"name":"UK Garage-Inspired","slug":"uk-garage-inspired","category":"New batch","bpm":132,"midiFiles":28,"studies":4,"tag":"v1.0.0","repository":"https://github.com/mizcausevic-dev/uk-garage-inspired","page":"https://mizcausevic-dev.github.io/uk-garage-inspired/","pagesStatus":"built","httpStatus":200,"validation":"PASS"},
         {"order":27,"name":"Detroit Techno-Inspired","slug":"detroit-techno-inspired","category":"New batch","bpm":128,"midiFiles":28,"studies":4,"tag":"v1.0.0","repository":"https://github.com/mizcausevic-dev/detroit-techno-inspired","page":"https://mizcausevic-dev.github.io/detroit-techno-inspired/","pagesStatus":"built","httpStatus":200,"validation":"PASS"},
@@ -391,7 +401,7 @@
           },
           {
             "title": "Pages deployment",
-            "detail": "GitHub Pages API state was observed as built for all 34 releases during the release run."
+            "detail": "GitHub Pages API state was observed as built for all 44 releases during their respective release checks."
           },
           {
             "title": "Live endpoint",
@@ -405,7 +415,7 @@
         "metricDefinitions": [
           {
             "label": "Published release",
-            "definition": "One of the 34 repositories released in the current session with a public GitHub source URL and a configured Pages URL.",
+            "definition": "One of the 44 repositories released in the current session with a public GitHub source URL and a configured Pages URL.",
             "componentIds": [
               "release-total"
             ],
@@ -434,7 +444,7 @@
         {
           "priority": "P0",
           "title": "Human listening and producer QA",
-          "scope": "All 34 packs",
+          "scope": "All 44 packs",
           "why": "Automated MIDI validation does not establish musical usefulness, mix readiness, or arrangement quality.",
           "evidence": "Not performed in this session.",
           "gate": "Complete documented listening notes and a pass/fail decision per pack before commercial promotion."
@@ -442,7 +452,7 @@
         {
           "priority": "P0",
           "title": "Rights and cultural-sensitivity review",
-          "scope": "All 34 public releases",
+          "scope": "All 44 public releases",
           "why": "Public source and downloads do not prove commercial clearance or appropriate genre representation.",
           "evidence": "No rights or cultural-authenticity clearance was recorded.",
           "gate": "Approve final licensing terms, naming, and public commercial-use policy."
@@ -450,7 +460,7 @@
         {
           "priority": "P1",
           "title": "Pack-specific visual polish",
-          "scope": "34 Pages sites",
+          "scope": "44 Pages sites",
           "why": "Current covers and previews are functional release assets; differentiated art direction is needed for a less system-generated customer experience.",
           "evidence": "Pages contain original SVG covers and simple-synth previews; no human art-direction signoff was recorded.",
           "gate": "Approve unique cover/preview treatment for any pack selected for a paid launch."
