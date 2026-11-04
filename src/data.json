@@ -1,13 +1,173 @@
 {
   "title": "MIDI Release Control",
   "status": "reviewed-snapshot",
-  "generatedAt": "2026-11-04T20:26:42Z",
+  "generatedAt": "2026-11-04T21:57:44Z",
   "buildStatus": "complete",
   "filters": [],
   "queries": {
     "releases": {
       "name": "Session MIDI releases",
       "rows": [
+        {
+          "order": 55,
+          "name": "Dark EDM Chord Vault",
+          "slug": "dark-edm-chord-vault",
+          "category": "New batch 4",
+          "bpm": 128,
+          "midiFiles": 44,
+          "studies": 4,
+          "tag": "v1.0.0",
+          "repository": "https://github.com/mizcausevic-dev/dark-edm-chord-vault",
+          "page": "https://mizcausevic-dev.github.io/dark-edm-chord-vault/",
+          "pagesStatus": "built",
+          "httpStatus": 200,
+          "validation": "PASS",
+          "artwork": "https://mizcausevic-dev.github.io/dark-edm-chord-vault/art/hero.jpg"
+        },
+        {
+          "order": 56,
+          "name": "90s Trance Chords & Melodies",
+          "slug": "nineties-trance-chords-melodies",
+          "category": "New batch 4",
+          "bpm": 138,
+          "midiFiles": 60,
+          "studies": 4,
+          "tag": "v1.0.0",
+          "repository": "https://github.com/mizcausevic-dev/nineties-trance-chords-melodies",
+          "page": "https://mizcausevic-dev.github.io/nineties-trance-chords-melodies/",
+          "pagesStatus": "built",
+          "httpStatus": 200,
+          "validation": "PASS",
+          "artwork": "https://mizcausevic-dev.github.io/nineties-trance-chords-melodies/art/hero.jpg"
+        },
+        {
+          "order": 57,
+          "name": "Bass House Hooks",
+          "slug": "bass-house-hooks",
+          "category": "New batch 4",
+          "bpm": 126,
+          "midiFiles": 44,
+          "studies": 4,
+          "tag": "v1.0.0",
+          "repository": "https://github.com/mizcausevic-dev/bass-house-hooks",
+          "page": "https://mizcausevic-dev.github.io/bass-house-hooks/",
+          "pagesStatus": "built",
+          "httpStatus": 200,
+          "validation": "PASS",
+          "artwork": "https://mizcausevic-dev.github.io/bass-house-hooks/art/hero.jpg"
+        },
+        {
+          "order": 58,
+          "name": "Tech House Groove Builder",
+          "slug": "tech-house-groove-builder",
+          "category": "New batch 4",
+          "bpm": 126,
+          "midiFiles": 44,
+          "studies": 4,
+          "tag": "v1.0.0",
+          "repository": "https://github.com/mizcausevic-dev/tech-house-groove-builder",
+          "page": "https://mizcausevic-dev.github.io/tech-house-groove-builder/",
+          "pagesStatus": "built",
+          "httpStatus": 200,
+          "validation": "PASS",
+          "artwork": "https://mizcausevic-dev.github.io/tech-house-groove-builder/art/hero.jpg"
+        },
+        {
+          "order": 59,
+          "name": "Melodic House Chord Journeys",
+          "slug": "melodic-house-chord-journeys",
+          "category": "New batch 4",
+          "bpm": 122,
+          "midiFiles": 44,
+          "studies": 4,
+          "tag": "v1.0.0",
+          "repository": "https://github.com/mizcausevic-dev/melodic-house-chord-journeys",
+          "page": "https://mizcausevic-dev.github.io/melodic-house-chord-journeys/",
+          "pagesStatus": "built",
+          "httpStatus": 200,
+          "validation": "PASS",
+          "artwork": "https://mizcausevic-dev.github.io/melodic-house-chord-journeys/art/hero.jpg"
+        },
+        {
+          "order": 60,
+          "name": "House / Techno Crossover",
+          "slug": "house-techno-crossover",
+          "category": "New batch 4",
+          "bpm": 128,
+          "midiFiles": 44,
+          "studies": 4,
+          "tag": "v1.0.0",
+          "repository": "https://github.com/mizcausevic-dev/house-techno-crossover",
+          "page": "https://mizcausevic-dev.github.io/house-techno-crossover/",
+          "pagesStatus": "built",
+          "httpStatus": 200,
+          "validation": "PASS",
+          "artwork": "https://mizcausevic-dev.github.io/house-techno-crossover/art/hero.jpg"
+        },
+        {
+          "order": 61,
+          "name": "Hardstyle Anthem Toolkit",
+          "slug": "hardstyle-anthem-toolkit",
+          "category": "New batch 4",
+          "bpm": 150,
+          "midiFiles": 44,
+          "studies": 4,
+          "tag": "v1.0.0",
+          "repository": "https://github.com/mizcausevic-dev/hardstyle-anthem-toolkit",
+          "page": "https://mizcausevic-dev.github.io/hardstyle-anthem-toolkit/",
+          "pagesStatus": "built",
+          "httpStatus": 200,
+          "validation": "PASS",
+          "artwork": "https://mizcausevic-dev.github.io/hardstyle-anthem-toolkit/art/hero.jpg"
+        },
+        {
+          "order": 62,
+          "name": "Disco & Funk Chords",
+          "slug": "disco-funk-chords",
+          "category": "New batch 4",
+          "bpm": 112,
+          "midiFiles": 44,
+          "studies": 4,
+          "tag": "v1.0.0",
+          "repository": "https://github.com/mizcausevic-dev/disco-funk-chords",
+          "page": "https://mizcausevic-dev.github.io/disco-funk-chords/",
+          "pagesStatus": "built",
+          "httpStatus": 200,
+          "validation": "PASS",
+          "artwork": "https://mizcausevic-dev.github.io/disco-funk-chords/art/hero.jpg"
+        },
+        {
+          "order": 63,
+          "name": "Progressive Rock Writing Kit",
+          "slug": "progressive-rock-writing-kit",
+          "category": "New batch 4",
+          "bpm": 108,
+          "midiFiles": 44,
+          "studies": 4,
+          "tag": "v1.0.0",
+          "repository": "https://github.com/mizcausevic-dev/progressive-rock-writing-kit",
+          "page": "https://mizcausevic-dev.github.io/progressive-rock-writing-kit/",
+          "pagesStatus": "built",
+          "httpStatus": 200,
+          "validation": "PASS",
+          "artwork": "https://mizcausevic-dev.github.io/progressive-rock-writing-kit/art/hero.jpg"
+        },
+        {
+          "order": 64,
+          "name": "Afro House-Inspired Melodies",
+          "slug": "afro-house-inspired-melodies",
+          "category": "New batch 4",
+          "bpm": 120,
+          "midiFiles": 44,
+          "studies": 4,
+          "tag": "v1.0.0",
+          "repository": "https://github.com/mizcausevic-dev/afro-house-inspired-melodies",
+          "page": "https://mizcausevic-dev.github.io/afro-house-inspired-melodies/",
+          "pagesStatus": "built",
+          "httpStatus": 200,
+          "validation": "PASS",
+          "artwork": "https://mizcausevic-dev.github.io/afro-house-inspired-melodies/art/hero.jpg"
+        },
         {
           "order": 45,
           "name": "Neo-Soul Keys",
@@ -885,7 +1045,7 @@
           },
           {
             "title": "Pages deployment",
-            "detail": "GitHub Pages API state was observed as built for all 54 releases during their respective release checks."
+            "detail": "GitHub Pages API state was observed as built for all 64 releases during their respective release checks."
           },
           {
             "title": "Live endpoint",
@@ -899,7 +1059,7 @@
         "metricDefinitions": [
           {
             "label": "Published release",
-            "definition": "One of the 54 session repositories with verified public GitHub source and Pages.",
+            "definition": "One of the 64 session repositories with verified public GitHub source and Pages.",
             "componentIds": [
               "release-total"
             ],
@@ -910,7 +1070,7 @@
           },
           {
             "label": "Validated MIDI exports",
-            "definition": "Sum of 28 recorded MIDI exports across each release row.",
+            "definition": "Sum of recorded MIDI exports, including validated focused clips in the fourth batch.",
             "componentIds": [
               "midi-total"
             ],
@@ -930,13 +1090,13 @@
           "title": "Complete the missing media packages",
           "scope": "33 earlier packs",
           "why": "The original delivery brief called for a raster hero and a captioned preview film for every pack.",
-          "evidence": "A local audit found 11 of the earlier 44 releases contained both a JPG hero and an MP4. The ten new releases also contain both, leaving 33 earlier packs without this media pair.",
+          "evidence": "A local audit found 11 of the earlier 44 releases contained both a JPG hero and an MP4. The 20 later releases also contain both, leaving 33 earlier packs without this media pair.",
           "gate": "Create and validate each missing package from its own canonical audio, with accurate artwork provenance and release checks."
         },
         {
           "priority": "P0",
           "title": "Human listening and producer QA",
-          "scope": "All 54 packs",
+          "scope": "All 64 packs",
           "why": "Automated MIDI validation does not establish musical usefulness, mix readiness, or arrangement quality.",
           "evidence": "Not performed in this session.",
           "gate": "Complete documented listening notes and a pass/fail decision per pack before commercial promotion."
@@ -944,7 +1104,7 @@
         {
           "priority": "P0",
           "title": "Rights and cultural-sensitivity review",
-          "scope": "All 54 public releases",
+          "scope": "All 64 public releases",
           "why": "Public source and downloads do not prove commercial clearance or appropriate genre representation.",
           "evidence": "No rights or cultural-authenticity clearance was recorded.",
           "gate": "Approve final licensing terms, naming, and public commercial-use policy."
@@ -952,7 +1112,7 @@
         {
           "priority": "P1",
           "title": "Pack-specific visual polish",
-          "scope": "54 Pages sites",
+          "scope": "64 Pages sites",
           "why": "Current covers and previews are functional release assets; differentiated art direction is needed for a less system-generated customer experience.",
           "evidence": "Pages contain original SVG covers and simple-synth previews; no human art-direction signoff was recorded.",
           "gate": "Approve unique cover/preview treatment for any pack selected for a paid launch."
