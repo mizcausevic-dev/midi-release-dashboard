@@ -1,7 +1,7 @@
 {
   "title": "MIDI Release Control",
   "status": "reviewed-snapshot",
-  "generatedAt": "2026-11-04",
+  "generatedAt": "2026-11-04T17:51:15Z",
   "buildStatus": "complete",
   "filters": [],
   "queries": {
@@ -9,7 +9,7 @@
       "name": "Session MIDI releases",
       "rows": [
         {"order":25,"name":"Dub Techno","slug":"dub-techno","category":"New batch","bpm":122,"midiFiles":28,"studies":4,"tag":"v1.0.0","repository":"https://github.com/mizcausevic-dev/dub-techno","page":"https://mizcausevic-dev.github.io/dub-techno/","pagesStatus":"built","httpStatus":200,"validation":"PASS"},
-        {"order":26,"name":"UK Garage-Inspired","slug":"uk-garage-inspired","category":"New batch","bpm":132,"midiFiles":28,"studies":4,"tag":"v1.0.0","repository":"https://github.com/mizcausevic-dev/uk-garage-inspired","page":"https://mizcausevic-dev.github.io/uk-garage-inspired/","pagesStatus":"building","httpStatus":404,"validation":"PASS"},
+        {"order":26,"name":"UK Garage-Inspired","slug":"uk-garage-inspired","category":"New batch","bpm":132,"midiFiles":28,"studies":4,"tag":"v1.0.0","repository":"https://github.com/mizcausevic-dev/uk-garage-inspired","page":"https://mizcausevic-dev.github.io/uk-garage-inspired/","pagesStatus":"built","httpStatus":200,"validation":"PASS"},
         {"order":27,"name":"Detroit Techno-Inspired","slug":"detroit-techno-inspired","category":"New batch","bpm":128,"midiFiles":28,"studies":4,"tag":"v1.0.0","repository":"https://github.com/mizcausevic-dev/detroit-techno-inspired","page":"https://mizcausevic-dev.github.io/detroit-techno-inspired/","pagesStatus":"built","httpStatus":200,"validation":"PASS"},
         {"order":28,"name":"Ambient Piano","slug":"ambient-piano","category":"New batch","bpm":72,"midiFiles":28,"studies":4,"tag":"v1.0.0","repository":"https://github.com/mizcausevic-dev/ambient-piano","page":"https://mizcausevic-dev.github.io/ambient-piano/","pagesStatus":"built","httpStatus":200,"validation":"PASS"},
         {"order":29,"name":"Acid Synth","slug":"acid-synth","category":"New batch","bpm":130,"midiFiles":28,"studies":4,"tag":"v1.0.0","repository":"https://github.com/mizcausevic-dev/acid-synth","page":"https://mizcausevic-dev.github.io/acid-synth/","pagesStatus":"built","httpStatus":200,"validation":"PASS"},
@@ -391,11 +391,11 @@
           },
           {
             "title": "Pages deployment",
-            "detail": "GitHub Pages API state was observed per release. UK Garage-Inspired was still building at the last check."
+            "detail": "GitHub Pages API state was observed as built for all 34 releases during the release run."
           },
           {
             "title": "Live endpoint",
-            "detail": "The root URL was checked per release. UK Garage-Inspired returned 404 while its deployment was building."
+            "detail": "The root URLs returned HTTP 200 during the release run; UK Garage-Inspired was rechecked after its delayed deployment."
           },
           {
             "title": "Release validation",
