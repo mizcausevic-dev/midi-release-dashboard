@@ -1,7 +1,7 @@
 {
   "title": "MIDI Release Control",
   "status": "reviewed-snapshot",
-  "generatedAt": "2026-11-04T19:22:00Z",
+  "generatedAt": "2026-11-04T20:05:15Z",
   "buildStatus": "complete",
   "filters": [],
   "queries": {
@@ -441,6 +441,14 @@
     "next_actions": {
       "name": "Commercialization gates",
       "rows": [
+        {
+          "priority": "P0",
+          "title": "Complete the missing media packages",
+          "scope": "33 earlier packs",
+          "why": "The original delivery brief called for a raster hero and a captioned preview film for every pack.",
+          "evidence": "A local audit found 11 of 44 release repositories contained both a JPG hero and an MP4; 33 did not.",
+          "gate": "Create and validate each missing package from its own canonical audio, with accurate artwork provenance and release checks."
+        },
         {
           "priority": "P0",
           "title": "Human listening and producer QA",
