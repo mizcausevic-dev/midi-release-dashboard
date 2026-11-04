@@ -342,7 +342,7 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/dub-techno/art/cover.svg"
+          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/dub-techno.webp"
         },
         {
           "order": 26,
@@ -358,7 +358,7 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/uk-garage-inspired/art/cover.svg"
+          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/uk-garage-inspired.webp"
         },
         {
           "order": 27,
@@ -374,7 +374,7 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/detroit-techno-inspired/art/cover.svg"
+          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/detroit-techno-inspired.webp"
         },
         {
           "order": 28,
@@ -390,7 +390,7 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/ambient-piano/art/cover.svg"
+          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/ambient-piano.webp"
         },
         {
           "order": 29,
@@ -406,7 +406,7 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/acid-synth/art/cover.svg"
+          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/acid-synth.webp"
         },
         {
           "order": 30,
@@ -422,7 +422,7 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/jazz-funk/art/cover.svg"
+          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/jazz-funk.webp"
         },
         {
           "order": 31,
@@ -438,7 +438,7 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/breakbeat/art/cover.svg"
+          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/breakbeat.webp"
         },
         {
           "order": 32,
@@ -454,7 +454,7 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/progressive-house/art/cover.svg"
+          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/progressive-house.webp"
         },
         {
           "order": 33,
@@ -470,7 +470,7 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/dark-ambient/art/cover.svg"
+          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/dark-ambient.webp"
         },
         {
           "order": 34,
@@ -486,7 +486,7 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/synthwave/art/cover.svg"
+          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/synthwave.webp"
         },
         {
           "order": 1,
@@ -518,7 +518,7 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/jersey-club/art/cover.svg"
+          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/jersey-club.webp"
         },
         {
           "order": 3,
@@ -534,7 +534,7 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/baltimore-club/art/cover.svg"
+          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/baltimore-club.webp"
         },
         {
           "order": 4,
@@ -550,7 +550,7 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/gqom-inspired/art/cover.svg"
+          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/gqom-inspired.webp"
         },
         {
           "order": 5,
@@ -566,7 +566,7 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/amapiano-inspired/art/cover.svg"
+          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/amapiano-inspired.webp"
         },
         {
           "order": 6,
@@ -582,7 +582,7 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/kuduro-inspired/art/cover.svg"
+          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/kuduro-inspired.webp"
         },
         {
           "order": 7,
@@ -598,7 +598,7 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/baile-funk-inspired/art/cover.svg"
+          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/baile-funk-inspired.webp"
         },
         {
           "order": 8,
@@ -614,7 +614,7 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/dembow-inspired/art/cover.svg"
+          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/dembow-inspired.webp"
         },
         {
           "order": 9,
@@ -630,7 +630,7 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/uk-funky-inspired/art/cover.svg"
+          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/uk-funky-inspired.webp"
         },
         {
           "order": 10,
@@ -646,7 +646,7 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/broken-beat/art/cover.svg"
+          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/broken-beat.webp"
         },
         {
           "order": 11,
@@ -662,7 +662,7 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/bossa-nova/art/cover.svg"
+          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/bossa-nova.webp"
         },
         {
           "order": 12,
@@ -678,7 +678,7 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/chamber-jazz/art/cover.svg"
+          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/chamber-jazz.webp"
         },
         {
           "order": 13,
@@ -694,7 +694,7 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/post-rock/art/cover.svg"
+          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/post-rock.webp"
         },
         {
           "order": 14,
@@ -710,7 +710,7 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/shoegaze-inspired/art/cover.svg"
+          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/shoegaze-inspired.webp"
         },
         {
           "order": 15,
@@ -726,7 +726,7 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/math-rock/art/cover.svg"
+          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/math-rock.webp"
         },
         {
           "order": 16,
@@ -742,7 +742,7 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/djent-inspired/art/cover.svg"
+          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/djent-inspired.webp"
         },
         {
           "order": 17,
@@ -758,7 +758,7 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/blackgaze-inspired/art/cover.svg"
+          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/blackgaze-inspired.webp"
         },
         {
           "order": 18,
@@ -774,7 +774,7 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/sludge-metal/art/cover.svg"
+          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/sludge-metal.webp"
         },
         {
           "order": 19,
@@ -790,7 +790,7 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/dungeon-synth/art/cover.svg"
+          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/dungeon-synth.webp"
         },
         {
           "order": 20,
@@ -806,7 +806,7 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/chiptune/art/cover.svg"
+          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/chiptune.webp"
         },
         {
           "order": 21,
@@ -822,7 +822,7 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/electro-swing-inspired/art/cover.svg"
+          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/electro-swing-inspired.webp"
         },
         {
           "order": 22,
@@ -838,7 +838,7 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/cinematic-minimalism/art/cover.svg"
+          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/cinematic-minimalism.webp"
         },
         {
           "order": 23,
@@ -854,7 +854,7 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/neurofunk-inspired/art/cover.svg"
+          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/neurofunk-inspired.webp"
         },
         {
           "order": 24,
@@ -870,7 +870,7 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/halftime-bass/art/cover.svg"
+          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/halftime-bass.webp"
         }
       ],
       "source": {

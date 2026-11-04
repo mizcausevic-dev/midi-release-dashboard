@@ -9,9 +9,10 @@ The reviewed rows are in `src/data.json`; the dashboard is in `src/content/dashb
 ```powershell
 npm ci --ignore-scripts
 node <data-plugin>/output_formats/html/scripts/data-app.mjs build --project-dir <dashboard-project> --source
+python tools/stage-artwork.py
 ```
 
-The generated `dist/index.html` is the static deployment artifact. The source build is tied to the installed Data plugin; the deployed HTML does not require it. Update the snapshot only after checking actual remote results. The `gh-pages` branch holds the deployed artifact; roll back by pushing a reviewed previous artifact as a normal commit and verify the Pages URL.
+The deployment consists of `dist/index.html` and `dist/artwork/`. Copy both to the existing `gh-pages` branch. The source build is tied to the installed Data plugin; the deployed site does not require it. The 33 dashboard-specific WebP covers in `src/content/assets/pack-art/` were individually AI-generated for the corresponding pack and optimized for web delivery. They are dashboard artwork and do not replace the original covers in the individual release repositories. Update the snapshot only after checking actual remote results. Roll back by pushing a reviewed previous artifact as a normal commit and verify the Pages URL.
 
 ## Known limitations
 
