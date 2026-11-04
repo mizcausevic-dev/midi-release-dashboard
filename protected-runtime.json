@@ -29,7 +29,7 @@
     "docs/components/sources/sources.md": "2e6efcd576ec195c64895ded0aa29d629d94154fcc437828d2288a9440c31202",
     "docs/components/tables/tables.md": "09cc89810e75c7d75dce5cfeb2ebe687f8a55a6263476300d7e1aa440858885d",
     "index.html": "8c78e06bbcc695eebaaef5a0e5da0e39235d128b01d2c5f4bc9c0fa7b96d4495",
-    "package-lock.json": "a018dca90e5f5893c698b9b41ee53f64e91cf0533f5ab3dc86c51b5a95dedf4b",
+    "package-lock.json": "b59716708d4bebf08be3c0b6993ace13a239f6cd4bc1ba824810497df27b8544",
     "package.json": "6ee23dabbf22d64b8091a07b9dc857ff1ce2770e02886baaf68716595db8f14c",
     "scripts/authorize-protected-change.mjs": "fd0c4feee0d9d89c896a1d3c01d1d7506132b8e38360ddf4598ad6d0dfa064c9",
     "scripts/protected-file-digest.mjs": "2583e42fafb0d0fab7342b8dca163fe0d6771928dc41c830fbdfdee3af821822",
