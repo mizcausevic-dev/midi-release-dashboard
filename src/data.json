@@ -1,7 +1,7 @@
 {
   "title": "MIDI Release Control",
   "status": "reviewed-snapshot",
-  "generatedAt": "2026-11-04T22:42:14Z",
+  "generatedAt": "2026-11-05T01:41:49Z",
   "buildStatus": "complete",
   "filters": [],
   "queries": {
@@ -22,7 +22,9 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/hip-hop-chord-melody-sketches/art/hero.jpg"
+          "artwork": "https://mizcausevic-dev.github.io/hip-hop-chord-melody-sketches/art/hero.jpg",
+          "video": "https://mizcausevic-dev.github.io/hip-hop-chord-melody-sketches/film/motion-preview.mp4",
+          "videoStatus": "verified"
         },
         {
           "order": 66,
@@ -38,7 +40,9 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/ambientcore-textures/art/hero.jpg"
+          "artwork": "https://mizcausevic-dev.github.io/ambientcore-textures/art/hero.jpg",
+          "video": "https://mizcausevic-dev.github.io/ambientcore-textures/film/motion-preview.mp4",
+          "videoStatus": "verified"
         },
         {
           "order": 67,
@@ -54,7 +58,9 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/soulful-house-chords/art/hero.jpg"
+          "artwork": "https://mizcausevic-dev.github.io/soulful-house-chords/art/hero.jpg",
+          "video": "https://mizcausevic-dev.github.io/soulful-house-chords/film/motion-preview.mp4",
+          "videoStatus": "verified"
         },
         {
           "order": 68,
@@ -70,7 +76,9 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/piano-house-hooks/art/hero.jpg"
+          "artwork": "https://mizcausevic-dev.github.io/piano-house-hooks/art/hero.jpg",
+          "video": "https://mizcausevic-dev.github.io/piano-house-hooks/film/motion-preview.mp4",
+          "videoStatus": "verified"
         },
         {
           "order": 69,
@@ -86,7 +94,9 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/garage-house-grooves/art/hero.jpg"
+          "artwork": "https://mizcausevic-dev.github.io/garage-house-grooves/art/hero.jpg",
+          "video": "https://mizcausevic-dev.github.io/garage-house-grooves/film/motion-preview.mp4",
+          "videoStatus": "verified"
         },
         {
           "order": 70,
@@ -102,7 +112,9 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/melodic-techno-sequences/art/hero.jpg"
+          "artwork": "https://mizcausevic-dev.github.io/melodic-techno-sequences/art/hero.jpg",
+          "video": "https://mizcausevic-dev.github.io/melodic-techno-sequences/film/motion-preview.mp4",
+          "videoStatus": "verified"
         },
         {
           "order": 71,
@@ -118,7 +130,9 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/dark-techno-melodies/art/hero.jpg"
+          "artwork": "https://mizcausevic-dev.github.io/dark-techno-melodies/art/hero.jpg",
+          "video": "https://mizcausevic-dev.github.io/dark-techno-melodies/film/motion-preview.mp4",
+          "videoStatus": "verified"
         },
         {
           "order": 72,
@@ -134,7 +148,9 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/uplifting-trance-leads/art/hero.jpg"
+          "artwork": "https://mizcausevic-dev.github.io/uplifting-trance-leads/art/hero.jpg",
+          "video": "https://mizcausevic-dev.github.io/uplifting-trance-leads/film/motion-preview.mp4",
+          "videoStatus": "verified"
         },
         {
           "order": 73,
@@ -150,7 +166,9 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/afrobeats-inspired-melodies/art/hero.jpg"
+          "artwork": "https://mizcausevic-dev.github.io/afrobeats-inspired-melodies/art/hero.jpg",
+          "video": "https://mizcausevic-dev.github.io/afrobeats-inspired-melodies/film/motion-preview.mp4",
+          "videoStatus": "verified"
         },
         {
           "order": 74,
@@ -166,7 +184,9 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/trap-melody-toolkit/art/hero.jpg"
+          "artwork": "https://mizcausevic-dev.github.io/trap-melody-toolkit/art/hero.jpg",
+          "video": "https://mizcausevic-dev.github.io/trap-melody-toolkit/film/motion-preview.mp4",
+          "videoStatus": "verified"
         },
         {
           "order": 55,
@@ -182,7 +202,9 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/dark-edm-chord-vault/art/hero.jpg"
+          "artwork": "https://mizcausevic-dev.github.io/dark-edm-chord-vault/art/hero.jpg",
+          "video": "https://mizcausevic-dev.github.io/dark-edm-chord-vault/film/motion-preview.mp4",
+          "videoStatus": "verified"
         },
         {
           "order": 56,
@@ -198,7 +220,9 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/nineties-trance-chords-melodies/art/hero.jpg"
+          "artwork": "https://mizcausevic-dev.github.io/nineties-trance-chords-melodies/art/hero.jpg",
+          "video": "https://mizcausevic-dev.github.io/nineties-trance-chords-melodies/film/motion-preview.mp4",
+          "videoStatus": "verified"
         },
         {
           "order": 57,
@@ -214,7 +238,9 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/bass-house-hooks/art/hero.jpg"
+          "artwork": "https://mizcausevic-dev.github.io/bass-house-hooks/art/hero.jpg",
+          "video": "https://mizcausevic-dev.github.io/bass-house-hooks/film/motion-preview.mp4",
+          "videoStatus": "verified"
         },
         {
           "order": 58,
@@ -230,7 +256,9 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/tech-house-groove-builder/art/hero.jpg"
+          "artwork": "https://mizcausevic-dev.github.io/tech-house-groove-builder/art/hero.jpg",
+          "video": "https://mizcausevic-dev.github.io/tech-house-groove-builder/film/motion-preview.mp4",
+          "videoStatus": "verified"
         },
         {
           "order": 59,
@@ -246,7 +274,9 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/melodic-house-chord-journeys/art/hero.jpg"
+          "artwork": "https://mizcausevic-dev.github.io/melodic-house-chord-journeys/art/hero.jpg",
+          "video": "https://mizcausevic-dev.github.io/melodic-house-chord-journeys/film/motion-preview.mp4",
+          "videoStatus": "verified"
         },
         {
           "order": 60,
@@ -262,7 +292,9 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/house-techno-crossover/art/hero.jpg"
+          "artwork": "https://mizcausevic-dev.github.io/house-techno-crossover/art/hero.jpg",
+          "video": "https://mizcausevic-dev.github.io/house-techno-crossover/film/motion-preview.mp4",
+          "videoStatus": "verified"
         },
         {
           "order": 61,
@@ -278,7 +310,9 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/hardstyle-anthem-toolkit/art/hero.jpg"
+          "artwork": "https://mizcausevic-dev.github.io/hardstyle-anthem-toolkit/art/hero.jpg",
+          "video": "https://mizcausevic-dev.github.io/hardstyle-anthem-toolkit/film/motion-preview.mp4",
+          "videoStatus": "verified"
         },
         {
           "order": 62,
@@ -294,7 +328,9 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/disco-funk-chords/art/hero.jpg"
+          "artwork": "https://mizcausevic-dev.github.io/disco-funk-chords/art/hero.jpg",
+          "video": "https://mizcausevic-dev.github.io/disco-funk-chords/film/motion-preview.mp4",
+          "videoStatus": "verified"
         },
         {
           "order": 63,
@@ -310,7 +346,9 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/progressive-rock-writing-kit/art/hero.jpg"
+          "artwork": "https://mizcausevic-dev.github.io/progressive-rock-writing-kit/art/hero.jpg",
+          "video": "https://mizcausevic-dev.github.io/progressive-rock-writing-kit/film/motion-preview.mp4",
+          "videoStatus": "verified"
         },
         {
           "order": 64,
@@ -326,7 +364,9 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/afro-house-inspired-melodies/art/hero.jpg"
+          "artwork": "https://mizcausevic-dev.github.io/afro-house-inspired-melodies/art/hero.jpg",
+          "video": "https://mizcausevic-dev.github.io/afro-house-inspired-melodies/film/motion-preview.mp4",
+          "videoStatus": "verified"
         },
         {
           "order": 45,
@@ -342,7 +382,9 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/neo-soul-keys/art/hero.jpg"
+          "artwork": "https://mizcausevic-dev.github.io/neo-soul-keys/art/hero.jpg",
+          "video": "https://mizcausevic-dev.github.io/neo-soul-keys/film/motion-preview.mp4",
+          "videoStatus": "verified"
         },
         {
           "order": 46,
@@ -358,7 +400,9 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/melodic-trance-studies/art/hero.jpg"
+          "artwork": "https://mizcausevic-dev.github.io/melodic-trance-studies/art/hero.jpg",
+          "video": "https://mizcausevic-dev.github.io/melodic-trance-studies/film/motion-preview.mp4",
+          "videoStatus": "verified"
         },
         {
           "order": 47,
@@ -374,7 +418,9 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/jungle-breaks-inspired/art/hero.jpg"
+          "artwork": "https://mizcausevic-dev.github.io/jungle-breaks-inspired/art/hero.jpg",
+          "video": "https://mizcausevic-dev.github.io/jungle-breaks-inspired/film/motion-preview.mp4",
+          "videoStatus": "verified"
         },
         {
           "order": 48,
@@ -390,7 +436,9 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/organic-house-studies/art/hero.jpg"
+          "artwork": "https://mizcausevic-dev.github.io/organic-house-studies/art/hero.jpg",
+          "video": "https://mizcausevic-dev.github.io/organic-house-studies/film/motion-preview.mp4",
+          "videoStatus": "verified"
         },
         {
           "order": 49,
@@ -406,7 +454,9 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/uk-bassline-inspired/art/hero.jpg"
+          "artwork": "https://mizcausevic-dev.github.io/uk-bassline-inspired/art/hero.jpg",
+          "video": "https://mizcausevic-dev.github.io/uk-bassline-inspired/film/motion-preview.mp4",
+          "videoStatus": "verified"
         },
         {
           "order": 50,
@@ -422,7 +472,9 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/idm-micro-rhythms/art/hero.jpg"
+          "artwork": "https://mizcausevic-dev.github.io/idm-micro-rhythms/art/hero.jpg",
+          "video": "https://mizcausevic-dev.github.io/idm-micro-rhythms/film/motion-preview.mp4",
+          "videoStatus": "verified"
         },
         {
           "order": 51,
@@ -438,7 +490,9 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/contemporary-rnb-studies/art/hero.jpg"
+          "artwork": "https://mizcausevic-dev.github.io/contemporary-rnb-studies/art/hero.jpg",
+          "video": "https://mizcausevic-dev.github.io/contemporary-rnb-studies/film/motion-preview.mp4",
+          "videoStatus": "verified"
         },
         {
           "order": 52,
@@ -454,7 +508,9 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/boom-bap-sketches/art/hero.jpg"
+          "artwork": "https://mizcausevic-dev.github.io/boom-bap-sketches/art/hero.jpg",
+          "video": "https://mizcausevic-dev.github.io/boom-bap-sketches/film/motion-preview.mp4",
+          "videoStatus": "verified"
         },
         {
           "order": 53,
@@ -470,7 +526,9 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/cinematic-tension-studies/art/hero.jpg"
+          "artwork": "https://mizcausevic-dev.github.io/cinematic-tension-studies/art/hero.jpg",
+          "video": "https://mizcausevic-dev.github.io/cinematic-tension-studies/film/motion-preview.mp4",
+          "videoStatus": "verified"
         },
         {
           "order": 54,
@@ -486,7 +544,9 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/polyrhythmic-minimalism/art/hero.jpg"
+          "artwork": "https://mizcausevic-dev.github.io/polyrhythmic-minimalism/art/hero.jpg",
+          "video": "https://mizcausevic-dev.github.io/polyrhythmic-minimalism/film/motion-preview.mp4",
+          "videoStatus": "verified"
         },
         {
           "order": 35,
@@ -502,7 +562,9 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/trip-hop-studies/art/hero.jpg"
+          "artwork": "https://mizcausevic-dev.github.io/trip-hop-studies/art/hero.jpg",
+          "video": "https://mizcausevic-dev.github.io/trip-hop-studies/film/motion-preview.mp4",
+          "videoStatus": "verified"
         },
         {
           "order": 36,
@@ -518,7 +580,9 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/deep-house-studies/art/hero.jpg"
+          "artwork": "https://mizcausevic-dev.github.io/deep-house-studies/art/hero.jpg",
+          "video": "https://mizcausevic-dev.github.io/deep-house-studies/film/motion-preview.mp4",
+          "videoStatus": "verified"
         },
         {
           "order": 37,
@@ -534,7 +598,9 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/liquid-dnb-studies/art/hero.jpg"
+          "artwork": "https://mizcausevic-dev.github.io/liquid-dnb-studies/art/hero.jpg",
+          "video": "https://mizcausevic-dev.github.io/liquid-dnb-studies/film/motion-preview.mp4",
+          "videoStatus": "verified"
         },
         {
           "order": 38,
@@ -550,7 +616,9 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/downtempo-studies/art/hero.jpg"
+          "artwork": "https://mizcausevic-dev.github.io/downtempo-studies/art/hero.jpg",
+          "video": "https://mizcausevic-dev.github.io/downtempo-studies/film/motion-preview.mp4",
+          "videoStatus": "verified"
         },
         {
           "order": 39,
@@ -566,7 +634,9 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/broken-house-studies/art/hero.jpg"
+          "artwork": "https://mizcausevic-dev.github.io/broken-house-studies/art/hero.jpg",
+          "video": "https://mizcausevic-dev.github.io/broken-house-studies/film/motion-preview.mp4",
+          "videoStatus": "verified"
         },
         {
           "order": 40,
@@ -582,7 +652,9 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/chillhop-studies/art/hero.jpg"
+          "artwork": "https://mizcausevic-dev.github.io/chillhop-studies/art/hero.jpg",
+          "video": "https://mizcausevic-dev.github.io/chillhop-studies/film/motion-preview.mp4",
+          "videoStatus": "verified"
         },
         {
           "order": 41,
@@ -598,7 +670,9 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/electro-studies/art/hero.jpg"
+          "artwork": "https://mizcausevic-dev.github.io/electro-studies/art/hero.jpg",
+          "video": "https://mizcausevic-dev.github.io/electro-studies/film/motion-preview.mp4",
+          "videoStatus": "verified"
         },
         {
           "order": 42,
@@ -614,7 +688,9 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/ambient-techno-studies/art/hero.jpg"
+          "artwork": "https://mizcausevic-dev.github.io/ambient-techno-studies/art/hero.jpg",
+          "video": "https://mizcausevic-dev.github.io/ambient-techno-studies/film/motion-preview.mp4",
+          "videoStatus": "verified"
         },
         {
           "order": 43,
@@ -630,7 +706,9 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/synth-pop-studies/art/hero.jpg"
+          "artwork": "https://mizcausevic-dev.github.io/synth-pop-studies/art/hero.jpg",
+          "video": "https://mizcausevic-dev.github.io/synth-pop-studies/film/motion-preview.mp4",
+          "videoStatus": "verified"
         },
         {
           "order": 44,
@@ -646,7 +724,9 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/minimal-techno-studies/art/hero.jpg"
+          "artwork": "https://mizcausevic-dev.github.io/minimal-techno-studies/art/hero.jpg",
+          "video": "https://mizcausevic-dev.github.io/minimal-techno-studies/film/motion-preview.mp4",
+          "videoStatus": "verified"
         },
         {
           "order": 25,
@@ -662,7 +742,9 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/dub-techno.webp"
+          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/dub-techno.webp",
+          "video": "https://mizcausevic-dev.github.io/dub-techno/film/motion-preview.mp4",
+          "videoStatus": "verified"
         },
         {
           "order": 26,
@@ -678,7 +760,9 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/uk-garage-inspired.webp"
+          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/uk-garage-inspired.webp",
+          "video": "https://mizcausevic-dev.github.io/uk-garage-inspired/film/motion-preview.mp4",
+          "videoStatus": "verified"
         },
         {
           "order": 27,
@@ -694,7 +778,9 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/detroit-techno-inspired.webp"
+          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/detroit-techno-inspired.webp",
+          "video": "https://mizcausevic-dev.github.io/detroit-techno-inspired/film/motion-preview.mp4",
+          "videoStatus": "verified"
         },
         {
           "order": 28,
@@ -710,7 +796,9 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/ambient-piano.webp"
+          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/ambient-piano.webp",
+          "video": "https://mizcausevic-dev.github.io/ambient-piano/film/motion-preview.mp4",
+          "videoStatus": "verified"
         },
         {
           "order": 29,
@@ -726,7 +814,9 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/acid-synth.webp"
+          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/acid-synth.webp",
+          "video": "https://mizcausevic-dev.github.io/acid-synth/film/motion-preview.mp4",
+          "videoStatus": "verified"
         },
         {
           "order": 30,
@@ -742,7 +832,9 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/jazz-funk.webp"
+          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/jazz-funk.webp",
+          "video": "https://mizcausevic-dev.github.io/jazz-funk/film/motion-preview.mp4",
+          "videoStatus": "verified"
         },
         {
           "order": 31,
@@ -758,7 +850,9 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/breakbeat.webp"
+          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/breakbeat.webp",
+          "video": "https://mizcausevic-dev.github.io/breakbeat/film/motion-preview.mp4",
+          "videoStatus": "verified"
         },
         {
           "order": 32,
@@ -774,7 +868,9 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/progressive-house.webp"
+          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/progressive-house.webp",
+          "video": "https://mizcausevic-dev.github.io/progressive-house/film/motion-preview.mp4",
+          "videoStatus": "verified"
         },
         {
           "order": 33,
@@ -790,7 +886,9 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/dark-ambient.webp"
+          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/dark-ambient.webp",
+          "video": "https://mizcausevic-dev.github.io/dark-ambient/film/motion-preview.mp4",
+          "videoStatus": "verified"
         },
         {
           "order": 34,
@@ -806,7 +904,9 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/synthwave.webp"
+          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/synthwave.webp",
+          "video": "https://mizcausevic-dev.github.io/synthwave/film/motion-preview.mp4",
+          "videoStatus": "verified"
         },
         {
           "order": 1,
@@ -822,7 +922,9 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/footwork-codex/art/hero.jpg"
+          "artwork": "https://mizcausevic-dev.github.io/footwork-codex/art/hero.jpg",
+          "video": "https://mizcausevic-dev.github.io/footwork-codex/film/motion-preview.mp4",
+          "videoStatus": "verified"
         },
         {
           "order": 2,
@@ -838,7 +940,9 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/jersey-club.webp"
+          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/jersey-club.webp",
+          "video": "https://mizcausevic-dev.github.io/jersey-club/film/motion-preview.mp4",
+          "videoStatus": "verified"
         },
         {
           "order": 3,
@@ -854,7 +958,9 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/baltimore-club.webp"
+          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/baltimore-club.webp",
+          "video": "https://mizcausevic-dev.github.io/baltimore-club/film/motion-preview.mp4",
+          "videoStatus": "verified"
         },
         {
           "order": 4,
@@ -870,7 +976,9 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/gqom-inspired.webp"
+          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/gqom-inspired.webp",
+          "video": "https://mizcausevic-dev.github.io/gqom-inspired/film/motion-preview.mp4",
+          "videoStatus": "verified"
         },
         {
           "order": 5,
@@ -886,7 +994,9 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/amapiano-inspired.webp"
+          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/amapiano-inspired.webp",
+          "video": "https://mizcausevic-dev.github.io/amapiano-inspired/film/motion-preview.mp4",
+          "videoStatus": "verified"
         },
         {
           "order": 6,
@@ -902,7 +1012,9 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/kuduro-inspired.webp"
+          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/kuduro-inspired.webp",
+          "video": "https://mizcausevic-dev.github.io/kuduro-inspired/film/motion-preview.mp4",
+          "videoStatus": "verified"
         },
         {
           "order": 7,
@@ -918,7 +1030,9 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/baile-funk-inspired.webp"
+          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/baile-funk-inspired.webp",
+          "video": "https://mizcausevic-dev.github.io/baile-funk-inspired/film/motion-preview.mp4",
+          "videoStatus": "verified"
         },
         {
           "order": 8,
@@ -934,7 +1048,9 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/dembow-inspired.webp"
+          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/dembow-inspired.webp",
+          "video": "https://mizcausevic-dev.github.io/dembow-inspired/film/motion-preview.mp4",
+          "videoStatus": "verified"
         },
         {
           "order": 9,
@@ -950,7 +1066,9 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/uk-funky-inspired.webp"
+          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/uk-funky-inspired.webp",
+          "video": "https://mizcausevic-dev.github.io/uk-funky-inspired/film/motion-preview.mp4",
+          "videoStatus": "verified"
         },
         {
           "order": 10,
@@ -966,7 +1084,9 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/broken-beat.webp"
+          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/broken-beat.webp",
+          "video": "https://mizcausevic-dev.github.io/broken-beat/film/motion-preview.mp4",
+          "videoStatus": "verified"
         },
         {
           "order": 11,
@@ -982,7 +1102,9 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/bossa-nova.webp"
+          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/bossa-nova.webp",
+          "video": "https://mizcausevic-dev.github.io/bossa-nova/film/motion-preview.mp4",
+          "videoStatus": "verified"
         },
         {
           "order": 12,
@@ -998,7 +1120,9 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/chamber-jazz.webp"
+          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/chamber-jazz.webp",
+          "video": "https://mizcausevic-dev.github.io/chamber-jazz/film/motion-preview.mp4",
+          "videoStatus": "verified"
         },
         {
           "order": 13,
@@ -1014,7 +1138,9 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/post-rock.webp"
+          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/post-rock.webp",
+          "video": "https://mizcausevic-dev.github.io/post-rock/film/motion-preview.mp4",
+          "videoStatus": "verified"
         },
         {
           "order": 14,
@@ -1030,7 +1156,9 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/shoegaze-inspired.webp"
+          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/shoegaze-inspired.webp",
+          "video": "https://mizcausevic-dev.github.io/shoegaze-inspired/film/motion-preview.mp4",
+          "videoStatus": "verified"
         },
         {
           "order": 15,
@@ -1046,7 +1174,9 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/math-rock.webp"
+          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/math-rock.webp",
+          "video": "https://mizcausevic-dev.github.io/math-rock/film/motion-preview.mp4",
+          "videoStatus": "verified"
         },
         {
           "order": 16,
@@ -1062,7 +1192,9 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/djent-inspired.webp"
+          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/djent-inspired.webp",
+          "video": "https://mizcausevic-dev.github.io/djent-inspired/film/motion-preview.mp4",
+          "videoStatus": "verified"
         },
         {
           "order": 17,
@@ -1078,7 +1210,9 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/blackgaze-inspired.webp"
+          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/blackgaze-inspired.webp",
+          "video": "https://mizcausevic-dev.github.io/blackgaze-inspired/film/motion-preview.mp4",
+          "videoStatus": "verified"
         },
         {
           "order": 18,
@@ -1094,7 +1228,9 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/sludge-metal.webp"
+          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/sludge-metal.webp",
+          "video": "https://mizcausevic-dev.github.io/sludge-metal/film/motion-preview.mp4",
+          "videoStatus": "verified"
         },
         {
           "order": 19,
@@ -1110,7 +1246,9 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/dungeon-synth.webp"
+          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/dungeon-synth.webp",
+          "video": "https://mizcausevic-dev.github.io/dungeon-synth/film/motion-preview.mp4",
+          "videoStatus": "verified"
         },
         {
           "order": 20,
@@ -1126,7 +1264,9 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/chiptune.webp"
+          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/chiptune.webp",
+          "video": "https://mizcausevic-dev.github.io/chiptune/film/motion-preview.mp4",
+          "videoStatus": "verified"
         },
         {
           "order": 21,
@@ -1142,7 +1282,9 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/electro-swing-inspired.webp"
+          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/electro-swing-inspired.webp",
+          "video": "https://mizcausevic-dev.github.io/electro-swing-inspired/film/motion-preview.mp4",
+          "videoStatus": "verified"
         },
         {
           "order": 22,
@@ -1158,7 +1300,9 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/cinematic-minimalism.webp"
+          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/cinematic-minimalism.webp",
+          "video": "https://mizcausevic-dev.github.io/cinematic-minimalism/film/motion-preview.mp4",
+          "videoStatus": "verified"
         },
         {
           "order": 23,
@@ -1174,7 +1318,9 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/neurofunk-inspired.webp"
+          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/neurofunk-inspired.webp",
+          "video": "https://mizcausevic-dev.github.io/neurofunk-inspired/film/motion-preview.mp4",
+          "videoStatus": "verified"
         },
         {
           "order": 24,
@@ -1190,7 +1336,9 @@
           "pagesStatus": "built",
           "httpStatus": 200,
           "validation": "PASS",
-          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/halftime-bass.webp"
+          "artwork": "https://mizcausevic-dev.github.io/midi-release-dashboard/artwork/halftime-bass.webp",
+          "video": "https://mizcausevic-dev.github.io/halftime-bass/film/motion-preview.mp4",
+          "videoStatus": "verified"
         }
       ],
       "source": {
@@ -1214,6 +1362,10 @@
           {
             "title": "Release validation",
             "detail": "Each local release's validation report recorded PASS before its public release commit."
+          },
+          {
+            "title": "Motion previews",
+            "detail": "All 74 product branches were checked against the new commits. Each 18-second MP4 and caption file was checked on Pages; the MP4 bytes matched its recorded SHA-256 before local working copies were removed. Checks are a dated snapshot, not continuous monitoring."
           }
         ],
         "metricDefinitions": [
@@ -1247,18 +1399,10 @@
       "rows": [
         {
           "priority": "P0",
-          "title": "Complete the missing media packages",
-          "scope": "33 earlier packs",
-          "why": "The original delivery brief called for a raster hero and a captioned preview film for every pack.",
-          "evidence": "A local audit found 11 of the earlier 44 releases contained both a JPG hero and an MP4. The 30 later releases also contain both, leaving 33 earlier packs without this media pair.",
-          "gate": "Create and validate each missing package from its own canonical audio, with accurate artwork provenance and release checks."
-        },
-        {
-          "priority": "P0",
           "title": "Human listening and producer QA",
           "scope": "All 74 packs",
           "why": "Automated MIDI validation does not establish musical usefulness, mix readiness, or arrangement quality.",
-          "evidence": "Not performed in this session.",
+          "evidence": "All 74 preview audio files decoded; no sample peak measured at or above 0 dBFS and no mean level was below -50 dBFS. No human listening review was recorded.",
           "gate": "Complete documented listening notes and a pass/fail decision per pack before commercial promotion."
         },
         {
@@ -1273,8 +1417,8 @@
           "priority": "P1",
           "title": "Pack-specific visual polish",
           "scope": "74 Pages sites",
-          "why": "Current covers and previews are functional release assets; differentiated art direction is needed for a less system-generated customer experience.",
-          "evidence": "Pages contain original SVG covers and simple-synth previews; no human art-direction signoff was recorded.",
+          "why": "Distinctive pack artwork and motion previews now exist. A human art-direction review can identify improvements for selected paid launches.",
+          "evidence": "All 74 motion previews are live; 33 earlier packs use their individually created dashboard artwork in the new video. No human art-direction signoff was recorded.",
           "gate": "Approve unique cover/preview treatment for any pack selected for a paid launch."
         },
         {
