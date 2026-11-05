@@ -1,13 +1,67 @@
 {
   "title": "MIDI Release Control",
   "status": "reviewed-snapshot",
-  "generatedAt": "2026-11-05T20:14:08Z",
+  "generatedAt": "2026-11-05T20:18:31Z",
   "buildStatus": "complete",
   "filters": [],
   "queries": {
     "releases": {
       "name": "Session MIDI releases",
       "rows": [
+        {
+          "order": 198,
+          "name": "Classic Chicago House Grooves",
+          "slug": "classic-chicago-house-grooves",
+          "category": "New batch 9",
+          "bpm": 122,
+          "midiFiles": 44,
+          "studies": 4,
+          "tag": "v1.0.0",
+          "repository": "https://github.com/mizcausevic-dev/classic-chicago-house-grooves",
+          "page": "https://mizcausevic-dev.github.io/classic-chicago-house-grooves/",
+          "pagesStatus": "built",
+          "httpStatus": 200,
+          "validation": "PASS",
+          "artwork": "https://mizcausevic-dev.github.io/classic-chicago-house-grooves/art/hero.jpg",
+          "video": "https://mizcausevic-dev.github.io/classic-chicago-house-grooves/film/preview.mp4",
+          "videoStatus": "verified"
+        },
+        {
+          "order": 199,
+          "name": "Acid Techno Patterns",
+          "slug": "acid-techno-patterns",
+          "category": "New batch 9",
+          "bpm": 132,
+          "midiFiles": 44,
+          "studies": 4,
+          "tag": "v1.0.0",
+          "repository": "https://github.com/mizcausevic-dev/acid-techno-patterns",
+          "page": "https://mizcausevic-dev.github.io/acid-techno-patterns/",
+          "pagesStatus": "built",
+          "httpStatus": 200,
+          "validation": "PASS",
+          "artwork": "https://mizcausevic-dev.github.io/acid-techno-patterns/art/hero.jpg",
+          "video": "https://mizcausevic-dev.github.io/acid-techno-patterns/film/preview.mp4",
+          "videoStatus": "verified"
+        },
+        {
+          "order": 200,
+          "name": "Broken Techno Drum Cells",
+          "slug": "broken-techno-drum-cells",
+          "category": "New batch 9",
+          "bpm": 132,
+          "midiFiles": 44,
+          "studies": 4,
+          "tag": "v1.0.0",
+          "repository": "https://github.com/mizcausevic-dev/broken-techno-drum-cells",
+          "page": "https://mizcausevic-dev.github.io/broken-techno-drum-cells/",
+          "pagesStatus": "built",
+          "httpStatus": 200,
+          "validation": "PASS",
+          "artwork": "https://mizcausevic-dev.github.io/broken-techno-drum-cells/art/hero.jpg",
+          "video": "https://mizcausevic-dev.github.io/broken-techno-drum-cells/film/preview.mp4",
+          "videoStatus": "verified"
+        },
         {
           "order": 193,
           "name": "Progressive Rock Keyboard Leads",
@@ -3600,12 +3654,16 @@
           {
             "title": "New batch 9",
             "detail": "5 additional public repositories, version tags, Pages sites, video files, artwork and MIDI archives were verified; new local MP4s and disposable publishing checkouts were removed afterward."
+          },
+          {
+            "title": "New batch 9",
+            "detail": "3 additional public repositories, version tags, Pages sites, video files, artwork and MIDI archives were verified; new local MP4s and disposable publishing checkouts were removed afterward."
           }
         ],
         "metricDefinitions": [
           {
             "label": "Published release",
-            "definition": "One of the 197 session repositories with verified public GitHub source and Pages.",
+            "definition": "One of the 200 session repositories with verified public GitHub source and Pages.",
             "componentIds": [
               "release-total"
             ],
@@ -3634,7 +3692,7 @@
         {
           "priority": "P0",
           "title": "Human listening and producer QA",
-          "scope": "All 197 packs",
+          "scope": "All 200 packs",
           "why": "Automated MIDI validation does not establish musical usefulness, mix readiness, or arrangement quality.",
           "evidence": "The 74 earlier preview audio files decoded; no sample peak measured at or above 0 dBFS and no mean level was below -50 dBFS. No human listening review was recorded.",
           "gate": "Complete documented listening notes and a pass/fail decision per pack before commercial promotion."
@@ -3642,7 +3700,7 @@
         {
           "priority": "P0",
           "title": "Rights and cultural-sensitivity review",
-          "scope": "All 197 public releases",
+          "scope": "All 200 public releases",
           "why": "Public source and downloads do not prove commercial clearance or appropriate genre representation.",
           "evidence": "No rights or cultural-authenticity clearance was recorded.",
           "gate": "Approve final licensing terms, naming, and public commercial-use policy."
@@ -3650,9 +3708,9 @@
         {
           "priority": "P1",
           "title": "Pack-specific visual polish",
-          "scope": "197 Pages sites",
+          "scope": "200 Pages sites",
           "why": "Distinctive pack artwork and motion previews now exist. A human art-direction review can identify improvements for selected paid launches.",
-          "evidence": "All 197 motion previews were verified live; 33 earlier packs use their individually created dashboard artwork in the new video. No human art-direction signoff was recorded.",
+          "evidence": "All 200 motion previews were verified live; 33 earlier packs use their individually created dashboard artwork in the new video. No human art-direction signoff was recorded.",
           "gate": "Approve unique cover/preview treatment for any pack selected for a paid launch."
         },
         {
