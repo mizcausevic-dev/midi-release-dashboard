@@ -15,3 +15,5 @@ The wrapper requires the compatible dependencies already installed, Python, and 
 ## Known limitations
 
 The dashboard reports observations captured on November 6, 2026. The bounded comparison found no exact or pitch-normalized cross-pack match groups in the principal melody parts and focused clips it compared. It found no pitch-normalized groups within individual packs in that scope. All 200 captioned motion previews were checked during the release run; each is a simple-synth excerpt, not a master. MIDI validation does not assess musical merit, genre representation, listening quality, or rights clearance. Filter and layout verification depends on browser access.
+
+The November 6 follow-up independently parsed 8,112 local ZIP MIDI files with Mido 1.3.3 and decoded the 200 local preview MP3s while checking their recorded source and audio hashes. Ableton Live 12 imported one Dark Techno focused clip and one combined arrangement; this is a limited sample, not a cross-DAW certification or human listening review. Buyer terms and rights clearance remain unverified.

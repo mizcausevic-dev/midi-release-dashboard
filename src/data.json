@@ -3694,7 +3694,7 @@
           "title": "Human listening and producer QA",
           "scope": "All 200 packs",
           "why": "Automated MIDI validation does not establish musical usefulness, mix readiness, or arrangement quality.",
-          "evidence": "The 74 earlier preview audio files decoded; no sample peak measured at or above 0 dBFS and no mean level was below -50 dBFS. No human listening review was recorded.",
+          "evidence": "All 200 local previews decoded, matched their recorded source and audio hashes, and passed a basic silence and full-scale screen. No human listening review was recorded.",
           "gate": "Complete documented listening notes and a pass/fail decision per pack before commercial promotion."
         },
         {
@@ -3702,8 +3702,16 @@
           "title": "Rights and cultural-sensitivity review",
           "scope": "All 200 public releases",
           "why": "Public source and downloads do not prove commercial clearance or appropriate genre representation.",
-          "evidence": "No rights or cultural-authenticity clearance was recorded.",
+          "evidence": "No buyer license or rights clearance is recorded. A filename check found no LICENSE, LICENCE, or TERMS file in the 200 local archives; terms could still be embedded elsewhere.",
           "gate": "Approve final licensing terms, naming, and public commercial-use policy."
+        },
+        {
+          "priority": "P1",
+          "title": "Broaden DAW compatibility checks",
+          "scope": "Representative files across the collection",
+          "why": "A parser check cannot establish behavior in every DAW, instrument or import workflow.",
+          "evidence": "Ableton Live 12 imported one four-bar melody clip and one 32-bar combined arrangement as six MIDI tracks. No instrument playback or export round trip was recorded.",
+          "gate": "Test representative role, clip and multitrack exports in target DAWs, including instrument assignment and timing."
         },
         {
           "priority": "P1",
