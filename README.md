@@ -14,4 +14,4 @@ The wrapper requires the compatible dependencies already installed, Python, and 
 
 ## Known limitations
 
-The dashboard reports observations captured on November 6, 2026. The bounded event comparison found no exact match groups in the principal melody parts and focused clips it compared; 44 pitch-normalized cross-pack groups remain for contextual review. All 200 captioned motion previews were checked during the release run; each is a simple-synth excerpt, not a master. MIDI validation does not assess musical merit, genre representation, listening quality, or rights clearance. Filter and layout verification depends on browser access.
+The dashboard reports observations captured on November 6, 2026. The bounded event comparison found no exact match groups in the principal melody parts and focused clips it compared; 42 pitch-normalized cross-pack groups remain for contextual review. All 200 captioned motion previews were checked during the release run; each is a simple-synth excerpt, not a master. MIDI validation does not assess musical merit, genre representation, listening quality, or rights clearance. Filter and layout verification depends on browser access.
