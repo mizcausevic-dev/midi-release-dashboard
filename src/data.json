@@ -3710,7 +3710,7 @@
           "title": "Broaden DAW compatibility checks",
           "scope": "Representative files across the collection",
           "why": "A parser check cannot establish behavior in every DAW, instrument or import workflow.",
-          "evidence": "Ableton Live 12 imported four files from three packs, including a six-track arrangement. One four-bar bass clip retained beat-relative note events after export, with PPQ changing from 480 to 96. Instrument playback and other DAWs remain untested.",
+          "evidence": "Ableton Live 12 imported four files from three packs, including a six-track arrangement. One four-bar bass clip retained beat-relative note events after export, with PPQ changing from 480 to 96. On November 7, one Ambientcore chord clip rendered through Operator at 128 BPM; spectral peaks matched its 12 MIDI pitches. Other DAWs and human listening remain untested.",
           "gate": "Test representative role, clip and multitrack exports in target DAWs, including instrument assignment and timing."
         },
         {
