@@ -3703,7 +3703,7 @@
           "scope": "All 200 public releases",
           "why": "Public source and downloads do not prove commercial clearance or appropriate genre representation.",
           "evidence": "Miz confirmed authority and approved the nonexclusive MIDI license. License-bearing current downloads and documentation for all 200 packs were hash-verified on Pages. The earlier v1.0.0 tags retain their prior contents. Media rights and independent provenance review remain separate.",
-          "gate": "Assess third-party media and provenance before commercial promotion; preserve the license in future rebuilds."
+          "gate": "Assess third-party media and provenance before commercial promotion. All 200 builders and validators now check the approved license; a full rebuild was tested for one pack."
         },
         {
           "priority": "P1",
