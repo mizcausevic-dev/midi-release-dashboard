@@ -3702,15 +3702,15 @@
           "title": "Rights and cultural-sensitivity review",
           "scope": "All 200 public releases",
           "why": "Public source and downloads do not prove commercial clearance or appropriate genre representation.",
-          "evidence": "No buyer license or rights clearance is recorded. A filename check found no LICENSE, LICENCE, or TERMS file in the 200 local archives; terms could still be embedded elsewhere.",
-          "gate": "Approve final licensing terms, naming, and public commercial-use policy."
+          "evidence": "Miz confirmed authority and approved the nonexclusive MIDI license. Dark Techno Melodies includes it in the live download; 199 other downloads remain to be published and verified. Media rights and independent provenance review remain separate.",
+          "gate": "Publish and verify the license for each remaining pack; assess third-party media and provenance."
         },
         {
           "priority": "P1",
           "title": "Broaden DAW compatibility checks",
           "scope": "Representative files across the collection",
           "why": "A parser check cannot establish behavior in every DAW, instrument or import workflow.",
-          "evidence": "Ableton Live 12 imported one four-bar melody clip and one 32-bar combined arrangement as six MIDI tracks. No instrument playback or export round trip was recorded.",
+          "evidence": "Ableton Live 12 imported four files from three packs, including a six-track arrangement. One four-bar bass clip retained beat-relative note events after export, with PPQ changing from 480 to 96. Instrument playback and other DAWs remain untested.",
           "gate": "Test representative role, clip and multitrack exports in target DAWs, including instrument assignment and timing."
         },
         {
@@ -3727,7 +3727,7 @@
           "scope": "Collection level",
           "why": "There is no payment, license selection, fulfillment, or buyer-support path in the published pack Pages.",
           "evidence": "No commerce or payment system was built in this session.",
-          "gate": "Choose merchant, price architecture, license terms, and customer delivery workflow before implementation."
+          "gate": "Choose merchant, price architecture, and customer delivery workflow before implementation."
         },
         {
           "priority": "P2",
