@@ -3702,8 +3702,8 @@
           "title": "Rights and cultural-sensitivity review",
           "scope": "All 200 public releases",
           "why": "Public source and downloads do not prove commercial clearance or appropriate genre representation.",
-          "evidence": "Miz confirmed authority and approved the nonexclusive MIDI license. Publication and verification are underway; Dark Techno Melodies is among the verified downloads. Media rights and independent provenance review remain separate.",
-          "gate": "Publish and verify the license for each remaining pack; assess third-party media and provenance."
+          "evidence": "Miz confirmed authority and approved the nonexclusive MIDI license. License-bearing current downloads and documentation for all 200 packs were hash-verified on Pages. The earlier v1.0.0 tags retain their prior contents. Media rights and independent provenance review remain separate.",
+          "gate": "Assess third-party media and provenance before commercial promotion; preserve the license in future rebuilds."
         },
         {
           "priority": "P1",
